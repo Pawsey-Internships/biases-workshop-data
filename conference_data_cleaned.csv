@@ -1,0 +1,2435 @@
+﻿Registration ID,Year,Work Country,Region,Title Category,Registration Type,Gender,# of Abstract Submissions
+104,6,USA,USA,Graduate Student,Student,Male,2
+105,6,USA,USA,Academia Scientist,Student,Female,1
+106,6,USA,USA,Academia Scientist,Student,Female,0
+107,6,USA,USA,Professor,Professional/Academic,Male,0
+108,6,USA,USA,Postdoctoral Researcher,Professional/Academic,Female,0
+109,6,USA,USA,Industry,Professional/Academic,Male,0
+110,6,USA,USA,Postdoctoral Researcher,Student,Male,0
+111,6,Switzerland,Europe,Professor,Professional/Academic,Male,3
+112,6,Saudi Arabia,Middle East,Postdoctoral Researcher,Professional/Academic,Male,0
+113,6,Saudi Arabia,Middle East,Graduate Student,Student,Female,0
+114,6,Canada,Other Americas,Graduate Student,Student,Female,1
+115,6,USA,USA,Graduate Student,Student,Female,2
+116,6,Saudi Arabia,Middle East,Graduate Student,Student,Female,0
+117,6,Saudi Arabia,Middle East,Postdoctoral Researcher,Professional/Academic,Male,0
+118,6,USA,USA,Graduate Student,Student,Female,0
+119,6,USA,USA,Industry,Professional/Academic,Male,0
+120,6,USA,USA,Graduate Student,Student,Female,1
+121,6,USA,USA,Graduate Student,Student,Female,2
+122,6,USA,USA,Professor,Professional/Academic,Male,0
+123,6,Saudi Arabia,Middle East,Graduate Student,Student,Male,0
+124,6,USA,USA,Graduate Student,Student,Female,0
+125,6,Israel,Middle East,Professor,Professional/Academic,Male,0
+126,6,USA,USA,Professor,Professional/Academic,Female,0
+127,6,USA,USA,Graduate Student,Student,Male,0
+128,6,USA,USA,Unknown/Other,Student,Male,0
+129,6,Switzerland,Europe,Academia Scientist,Professional/Academic,Male,0
+130,6,USA,USA,Industry,Professional/Academic,Male,0
+131,6,USA,USA,Professor,Professional/Academic,Male,0
+132,6,South Korea,Asia,Professor,Professional/Academic,Male,0
+133,6,USA,USA,Graduate Student,Student,Male,1
+134,6,Netherlands,Europe,Graduate Student,Student,Male,0
+135,6,USA,USA,Undergraduate Student,Student,Female,0
+136,6,USA,USA,Postdoctoral Researcher,Professional/Academic,Male,0
+137,6,USA,USA,Graduate Student,Student,Male,0
+138,6,USA,USA,Unknown/Other,Student,Female,0
+139,6,USA,USA,Professor,Professional/Academic,Male,0
+140,6,France,Europe,Academia Scientist,Professional/Academic,Male,1
+141,6,USA,USA,Government Scientist,Professional/Academic,Male,0
+142,6,USA,USA,Graduate Student,Student,Male,0
+143,6,USA,USA,Professor,Professional/Academic,Male,0
+144,6,USA,USA,Industry,Professional/Academic,Female,0
+145,6,USA,USA,Undergraduate Student,Student,Male,0
+146,6,USA,USA,Postdoctoral Researcher,Professional/Academic,Male,2
+147,6,USA,USA,Postdoctoral Researcher,Professional/Academic,Male,0
+148,6,Israel,Middle East,Academia Scientist,Professional/Academic,Male,0
+149,6,USA,USA,Industry,Professional/Academic,Male,1
+150,6,USA,USA,Professor,Professional/Academic,Male,1
+151,6,USA,USA,Graduate Student,Student,Male,0
+152,6,USA,USA,Industry,Professional/Academic,Male,0
+153,6,USA,USA,Industry,Professional/Academic,Male,0
+154,6,USA,USA,Graduate Student,Student,Male,0
+155,6,USA,USA,Graduate Student,Student,Male,0
+156,6,USA,USA,Graduate Student,Student,Male,2
+157,6,USA,USA,Undergraduate Student,Student,Female,0
+158,6,USA,USA,Academia Scientist,Professional/Academic,Female,0
+159,6,USA,USA,Professor,Professional/Academic,Male,0
+160,6,USA,USA,Industry,Professional/Academic,Male,0
+161,6,USA,USA,Graduate Student,Student,Female,0
+162,6,USA,USA,Graduate Student,Student,Male,2
+163,6,USA,USA,Undergraduate Student,Complementary Registration - Student,Female,0
+164,6,USA,USA,Graduate Student,Student,Male,0
+165,6,USA,USA,Government Scientist,Professional/Academic,Male,0
+166,6,USA,USA,Undergraduate Student,Student,Male,0
+167,6,USA,USA,Graduate Student,Complementary Registration - Student,Female,0
+168,6,USA,USA,Graduate Student,Student,Male,0
+169,6,USA,USA,Professor,Professional/Academic,Female,0
+170,6,USA,USA,Graduate Student,Student,Male,0
+171,6,USA,USA,Industry,Professional/Academic,Female,0
+172,6,USA,USA,Industry,Professional/Academic,Male,0
+173,6,USA,USA,Industry,Professional/Academic,Male,0
+174,6,USA,USA,Professor,Professional/Academic,Male,0
+175,6,USA,USA,Industry,Professional/Academic,Male,0
+176,6,USA,USA,Industry,Professional/Academic,Male,0
+177,6,USA,USA,Postdoctoral Researcher,Student,Female,0
+178,6,USA,USA,Industry,Professional/Academic,Male,1
+179,6,USA,USA,Graduate Student,Student,Male,2
+180,6,USA,USA,Graduate Student,Student,Female,2
+181,6,USA,USA,Graduate Student,Student,Female,2
+182,6,USA,USA,Industry,Professional/Academic,Male,0
+183,6,USA,USA,Graduate Student,Student,Male,0
+184,6,USA,USA,Industry,Professional/Academic,Male,0
+185,6,USA,USA,Graduate Student,Student,Female,0
+186,6,USA,USA,Industry,Professional/Academic,Female,1
+187,6,Saudi Arabia,Middle East,Academia Scientist,Professional/Academic,Male,1
+188,6,USA,USA,Graduate Student,Student,Male,0
+189,6,USA,USA,Undergraduate Student,Complementary Registration - Student,Female,0
+190,6,USA,USA,Graduate Student,Student,Male,0
+191,6,USA,USA,Professor,Professional/Academic,Male,0
+192,6,USA,USA,Industry,Professional/Academic,Female,0
+193,6,USA,USA,Graduate Student,Student,Female,0
+194,6,USA,USA,Professor,Professional/Academic,Male,0
+195,6,USA,USA,Industry,Professional/Academic,Female,0
+196,6,United Kingdom,Europe,Graduate Student,Student,Male,1
+197,6,USA,USA,Industry,Professional/Academic,Male,0
+198,6,Netherlands,Europe,Industry,Professional/Academic,Male,1
+199,6,USA,USA,Graduate Student,Student,Male,0
+200,6,Germany,Europe,Professor,Student,Male,0
+201,6,USA,USA,Graduate Student,Student,Female,1
+202,6,USA,USA,Graduate Student,Student,Male,0
+203,6,USA,USA,Graduate Student,Student,Male,1
+204,6,USA,USA,Graduate Student,Student,Male,0
+205,6,USA,USA,Graduate Student,Student,Male,0
+206,6,Singapore,Asia,Industry,Professional/Academic,Male,0
+207,6,USA,USA,Academia Scientist,Professional/Academic,Female,0
+208,6,USA,USA,Graduate Student,Student,Female,0
+209,6,USA,USA,Industry,Professional/Academic,Male,0
+210,6,USA,USA,Graduate Student,Student,Male,0
+211,6,Norway,Europe,Professor,Professional/Academic,Female,0
+212,6,USA,USA,Graduate Student,Student,Male,0
+213,6,USA,USA,Graduate Student,Student,Male,0
+214,6,Canada,Other Americas,Academia Scientist,Student,Male,1
+215,6,USA,USA,Professor,Professional/Academic,Male,1
+216,6,USA,USA,Postdoctoral Researcher,Professional/Academic,Female,0
+217,6,USA,USA,Professor,Professional/Academic,Female,0
+218,6,USA,USA,Graduate Student,Student,Male,2
+219,6,USA,USA,Graduate Student,Student,Male,0
+220,6,USA,USA,Graduate Student,Student,Male,1
+221,6,USA,USA,Postdoctoral Researcher,Professional/Academic,Male,0
+222,6,USA,USA,Graduate Student,Student,Male,0
+223,6,USA,USA,Graduate Student,Student,Male,1
+224,6,Netherlands,Europe,Graduate Student,Student,Female,1
+225,6,Poland,Europe,Industry,Professional/Academic,Female,0
+226,6,Canada,Other Americas,Graduate Student,Student,Male,1
+227,6,Canada,Other Americas,Graduate Student,Student,Male,0
+228,6,USA,USA,Professor,Professional/Academic,Female,0
+229,6,USA,USA,Graduate Student,Student,Male,1
+230,6,USA,USA,Graduate Student,Student,Female,1
+231,6,USA,USA,Industry,Professional/Academic,Male,0
+232,6,USA,USA,Professor,Professional/Academic,Male,0
+233,6,USA,USA,Graduate Student,Student,Male,0
+234,6,Israel,Middle East,Graduate Student,Student,Male,1
+235,6,Israel,Middle East,Professor,Professional/Academic,Male,1
+236,6,USA,USA,Industry,Professional/Academic,Male,0
+237,6,USA,USA,Professor,Professional/Academic,Female,0
+238,6,USA,USA,Professor,Professional/Academic,Male,0
+239,6,USA,USA,Graduate Student,Student,Male,0
+240,6,USA,USA,Undergraduate Student,Student,Male,0
+241,6,Saudi Arabia,Middle East,Graduate Student,Student,Male,1
+242,6,USA,USA,Graduate Student,Student,Male,1
+243,6,USA,USA,Graduate Student,Student,Male,1
+244,6,Hungary,Europe,Industry,Professional/Academic,Male,0
+245,6,USA,USA,Graduate Student,Student,Male,0
+246,6,United Kingdom,Europe,Academia Scientist,Professional/Academic,Female,0
+247,6,USA,USA,Government Scientist,Professional/Academic,Male,0
+248,6,USA,USA,Industry,Professional/Academic,Male,0
+249,6,USA,USA,Graduate Student,Student,Male,0
+250,6,Ireland,Europe,Industry,Professional/Academic,Male,0
+251,6,USA,USA,Graduate Student,Student,Male,0
+252,6,USA,USA,Industry,Professional/Academic,Male,0
+253,6,USA,USA,Graduate Student,Student,Male,0
+254,6,USA,USA,Government Scientist,Professional/Academic,Male,0
+255,6,USA,USA,Professor,Professional/Academic,Male,2
+256,6,USA,USA,Graduate Student,Student,Female,0
+257,6,Israel,Middle East,Professor,Professional/Academic,Male,1
+258,6,China,Asia,Postdoctoral Researcher,Professional/Academic,Female,1
+259,6,Canada,Other Americas,Graduate Student,Student,Male,0
+260,6,USA,USA,Industry,Professional/Academic,Male,0
+261,6,USA,USA,Professor,Professional/Academic,Male,1
+262,6,USA,USA,Professor,Professional/Academic,Male,2
+263,6,USA,USA,Industry,Professional/Academic,Female,0
+264,6,Saudi Arabia,Middle East,Postdoctoral Researcher,Professional/Academic,Female,0
+265,6,USA,USA,Professor,Professional/Academic,Male,0
+266,6,USA,USA,Graduate Student,Student,Male,1
+267,6,Canada,Other Americas,Undergraduate Student,Student,Female,0
+268,6,Saudi Arabia,Middle East,Academia Scientist,Complimentary Registration,Male,1
+269,6,USA,USA,Industry,Professional/Academic,Male,0
+270,6,USA,USA,Postdoctoral Researcher,Professional/Academic,Female,0
+271,6,Israel,Middle East,Professor,Professional/Academic,Male,1
+272,6,Italy,Europe,Academia Scientist,Professional/Academic,Female,1
+273,6,USA,USA,Industry,Professional/Academic,Male,0
+274,6,Germany,Europe,Professor,Professional/Academic,Male,1
+275,6,USA,USA,Industry,Professional/Academic,Male,0
+276,6,USA,USA,Professor,Professional/Academic,Male,1
+277,6,USA,USA,Professor,Professional/Academic,Female,0
+278,6,USA,USA,Graduate Student,Student,Male,0
+279,6,USA,USA,Professor,Professional/Academic,Female,0
+280,6,Israel,Middle East,Postdoctoral Researcher,Student,Male,0
+281,6,USA,USA,Graduate Student,Student,Male,2
+282,6,Norway,Europe,Academia Scientist,Professional/Academic,Female,0
+283,6,USA,USA,Graduate Student,Student,Female,0
+284,6,USA,USA,Graduate Student,Student,Male,1
+285,6,USA,USA,Graduate Student,Student,Female,0
+286,6,USA,USA,Industry,Professional/Academic,Female,0
+287,6,USA,USA,Postdoctoral Researcher,Professional/Academic,Male,0
+288,6,USA,USA,Industry,Professional/Academic,Female,0
+289,6,USA,USA,Graduate Student,Student,Female,2
+290,6,USA,USA,Industry,Professional/Academic,Male,0
+291,6,USA,USA,Industry,Professional/Academic,Male,0
+292,6,USA,USA,Industry,Professional/Academic,Male,1
+293,6,USA,USA,Industry,Professional/Academic,Male,0
+294,6,USA,USA,Professor,Professional/Academic,Female,0
+295,6,USA,USA,Graduate Student,Student,Female,0
+296,6,Netherlands,Europe,Graduate Student,Student,Female,0
+297,6,Colombia,Other Americas,Industry,Professional/Academic,Male,0
+298,6,USA,USA,Industry,Professional/Academic,Male,0
+299,6,USA,USA,Professor,Professional/Academic,Male,0
+300,6,USA,USA,Professor,Professional/Academic,Female,0
+301,6,USA,USA,Industry,Professional/Academic,Male,0
+302,6,USA,USA,Professor,Professional/Academic,Male,2
+303,6,USA,USA,Undergraduate Student,Student,Female,0
+304,6,USA,USA,Graduate Student,Student,Male,0
+305,6,USA,USA,Professor,Professional/Academic,Male,2
+306,6,USA,USA,Professor,Professional/Academic,Male,0
+307,6,USA,USA,Graduate Student,Student,Male,0
+308,6,USA,USA,Graduate Student,Student,Female,0
+309,6,USA,USA,Government Scientist,Professional/Academic,Male,0
+310,6,USA,USA,Professor,Professional/Academic,Female,0
+311,6,USA,USA,Industry,Professional/Academic,Male,0
+312,6,Switzerland,Europe,Graduate Student,Student,Male,1
+313,6,China,Asia,Graduate Student,Student,Unknown,1
+314,6,Switzerland,Europe,Graduate Student,Student,Female,1
+315,6,Saudi Arabia,Middle East,Postdoctoral Researcher,Professional/Academic,Male,0
+316,6,USA,USA,Industry,Professional/Academic,Female,0
+317,6,USA,USA,Graduate Student,Student,Male,0
+318,6,USA,USA,Graduate Student,Student,Female,2
+319,6,USA,USA,Professor,Professional/Academic,Male,0
+320,6,USA,USA,Graduate Student,Student,Male,0
+321,6,USA,USA,Graduate Student,Complementary Registration - Student,Male,0
+322,6,Saudi Arabia,Middle East,Graduate Student,Student,Male,2
+323,6,USA,USA,Unknown/Other,Complementary Registration - Student,Female,0
+324,6,USA,USA,Postdoctoral Researcher,Professional/Academic,Male,0
+325,6,USA,USA,Graduate Student,Student,Male,0
+326,6,USA,USA,Industry,Professional/Academic,Female,0
+327,6,USA,USA,Industry,Professional/Academic,Female,0
+328,6,Norway,Europe,Graduate Student,Student,Male,0
+329,6,USA,USA,Graduate Student,Student,Female,0
+330,6,USA,USA,Professor,Professional/Academic,Male,1
+331,6,USA,USA,Graduate Student,Student,Male,1
+332,6,Canada,Other Americas,Graduate Student,Student,Male,0
+333,6,USA,USA,Graduate Student,Student,Male,0
+334,6,Australia,Oceania,Graduate Student,Student,Unknown,0
+335,6,United Kingdom,Europe,Academia Scientist,Professional/Academic,Male,0
+336,6,USA,USA,Industry,Complimentary Registration,Female,0
+337,6,USA,USA,Postdoctoral Researcher,Professional/Academic,Male,0
+338,6,USA,USA,Industry,Complimentary Registration,Male,0
+339,6,USA,USA,Graduate Student,Student,Male,0
+340,6,USA,USA,Industry,Professional/Academic,Male,0
+341,6,USA,USA,Industry,Professional/Academic,Male,0
+342,6,USA,USA,Graduate Student,Student,Male,0
+343,6,USA,USA,Government Scientist,Professional/Academic,Female,0
+344,6,USA,USA,Graduate Student,Student,Male,0
+345,6,Canada,Other Americas,Academia Scientist,Student,Female,0
+346,6,USA,USA,Industry,Complimentary Registration,Male,0
+347,6,USA,USA,Professor,Professional/Academic,Male,1
+348,6,USA,USA,Postdoctoral Researcher,Professional/Academic,Male,1
+349,6,USA,USA,Industry,Professional/Academic,Male,0
+350,6,USA,USA,Graduate Student,Student,Unknown,0
+351,6,USA,USA,Professor,Professional/Academic,Female,0
+352,6,Netherlands,Europe,Academia Scientist,Professional/Academic,Male,0
+353,6,USA,USA,Industry,Professional/Academic,Male,0
+354,6,Israel,Middle East,Professor,Professional/Academic,Male,0
+355,6,Japan,Asia,Industry,Professional/Academic,Male,0
+356,6,USA,USA,Graduate Student,Student,Male,0
+357,6,USA,USA,Graduate Student,Student,Female,0
+358,6,USA,USA,Professor,Professional/Academic,Male,1
+359,6,USA,USA,Professor,Complimentary Registration,Male,1
+360,6,USA,USA,Graduate Student,Student,Male,0
+361,6,United Kingdom,Europe,Postdoctoral Researcher,Professional/Academic,Male,0
+362,6,USA,USA,Graduate Student,Student,Male,2
+363,6,USA,USA,Postdoctoral Researcher,Professional/Academic,Male,0
+364,6,Hungary,Europe,Graduate Student,Student,Male,1
+365,6,USA,USA,Graduate Student,Student,Male,1
+366,6,Israel,Middle East,Graduate Student,Student,Male,0
+367,6,USA,USA,Graduate Student,Student,Male,0
+368,6,USA,USA,Industry,Professional/Academic,Male,0
+369,6,USA,USA,Graduate Student,Student,Female,1
+370,6,USA,USA,Industry,Professional/Academic,Unknown,0
+371,6,Germany,Europe,Graduate Student,Student,Male,1
+372,6,USA,USA,Industry,Professional/Academic,Male,1
+373,6,USA,USA,Industry,Professional/Academic,Male,0
+374,6,USA,USA,Industry,Professional/Academic,Male,0
+375,6,USA,USA,Graduate Student,Student,Female,0
+376,6,USA,USA,Industry,Professional/Academic,Male,0
+377,6,USA,USA,Professor,Professional/Academic,Male,0
+378,6,USA,USA,Industry,Professional/Academic,Male,0
+379,6,USA,USA,Government Scientist,Professional/Academic,Male,0
+380,6,Germany,Europe,Academia Scientist,Professional/Academic,Male,0
+381,6,USA,USA,Professor,Professional/Academic,Male,0
+382,6,USA,USA,Graduate Student,Student,Male,0
+383,6,USA,USA,Industry,Professional/Academic,Female,0
+384,6,USA,USA,Graduate Student,Student,Female,0
+385,6,Canada,Other Americas,Graduate Student,Student,Female,0
+386,6,Canada,Other Americas,Graduate Student,Student,Male,1
+387,6,United Kingdom,Europe,Academia Scientist,Professional/Academic,Female,1
+388,6,Canada,Other Americas,Professor,Professional/Academic,Male,0
+389,6,Canada,Other Americas,Government Scientist,Professional/Academic,Male,0
+390,6,Germany,Europe,Graduate Student,Student,Female,0
+391,6,United Kingdom,Europe,Graduate Student,Student,Female,1
+392,6,USA,USA,Graduate Student,Student,Male,0
+393,6,Canada,Other Americas,Postdoctoral Researcher,Professional/Academic,Female,0
+394,6,USA,USA,Graduate Student,Student,Female,0
+395,6,South Korea,Asia,Unknown/Other,Student,Unknown,0
+396,6,Canada,Other Americas,Professor,Professional/Academic,Male,1
+397,6,USA,USA,Postdoctoral Researcher,Professional/Academic,Female,0
+398,6,USA,USA,Graduate Student,Student,Male,0
+399,6,Switzerland,Europe,Graduate Student,Student,Female,1
+400,6,USA,USA,Graduate Student,Student,Male,0
+401,6,USA,USA,Graduate Student,Student,Female,1
+402,6,USA,USA,Graduate Student,Student,Female,0
+403,6,USA,USA,Graduate Student,Student,Male,2
+404,6,USA,USA,Industry,Professional/Academic,Female,0
+405,6,USA,USA,Government Scientist,Student,Male,1
+406,6,Singapore,Asia,Graduate Student,Student,Female,2
+407,6,USA,USA,Graduate Student,Student,Female,0
+408,6,USA,USA,Industry,Professional/Academic,Unknown,0
+409,6,USA,USA,Graduate Student,Student,Female,2
+410,6,United Kingdom,Europe,Graduate Student,Student,Female,0
+411,6,China,Asia,Professor,Professional/Academic,Male,1
+412,6,USA,USA,Graduate Student,Student,Male,0
+413,6,USA,USA,Unknown/Other,Student,Unknown,0
+414,6,USA,USA,Graduate Student,Student,Female,1
+415,6,Canada,Other Americas,Undergraduate Student,Student,Male,0
+416,6,USA,USA,Graduate Student,Student,Male,1
+417,6,USA,USA,Graduate Student,Student,Male,0
+418,6,USA,USA,Professor,Professional/Academic,Male,2
+419,6,USA,USA,Professor,Professional/Academic,Male,5
+420,6,USA,USA,Graduate Student,Student,Female,1
+421,6,USA,USA,Professor,Professional/Academic,Male,0
+422,6,USA,USA,Professor,Complimentary Registration,Female,1
+423,6,USA,USA,Postdoctoral Researcher,Professional/Academic,Male,1
+424,6,USA,USA,Professor,Professional/Academic,Female,0
+425,6,USA,USA,Professor,Professional/Academic,Male,3
+426,6,China,Asia,Professor,Professional/Academic,Male,1
+427,6,USA,USA,Industry,Professional/Academic,Male,0
+428,6,USA,USA,Industry,Complimentary Registration,Unknown,0
+429,6,USA,USA,Postdoctoral Researcher,Professional/Academic,Male,1
+430,6,Saudi Arabia,Middle East,Postdoctoral Researcher,Professional/Academic,Male,0
+431,6,USA,USA,Industry,Professional/Academic,Male,0
+432,6,USA,USA,Industry,Professional/Academic,Female,0
+433,6,China,Asia,Professor,Professional/Academic,Male,1
+434,6,USA,USA,Graduate Student,Student,Female,0
+435,6,USA,USA,Postdoctoral Researcher,Professional/Academic,Male,1
+436,6,USA,USA,Graduate Student,Student,Male,0
+437,6,USA,USA,Postdoctoral Researcher,Professional/Academic,Male,1
+438,6,USA,USA,Professor,Professional/Academic,Male,0
+439,6,USA,USA,Industry,Professional/Academic,Female,0
+440,6,USA,USA,Professor,Professional/Academic,Male,0
+441,6,USA,USA,Professor,Professional/Academic,Male,0
+442,6,USA,USA,Graduate Student,Student,Male,0
+443,6,Germany,Europe,Graduate Student,Student,Female,0
+444,6,USA,USA,Graduate Student,Student,Male,0
+445,6,USA,USA,Graduate Student,Student,Male,0
+446,6,USA,USA,Graduate Student,Complementary Registration - Student,Female,0
+447,6,USA,USA,Graduate Student,Complementary Registration - Student,Male,1
+448,6,USA,USA,Postdoctoral Researcher,Student,Male,0
+449,6,USA,USA,Graduate Student,Student,Male,0
+450,6,USA,USA,Postdoctoral Researcher,Student,Female,0
+451,6,USA,USA,Professor,Professional/Academic,Male,0
+452,6,USA,USA,Industry,Professional/Academic,Female,0
+453,6,USA,USA,Industry,Professional/Academic,Male,0
+454,6,USA,USA,Professor,Professional/Academic,Male,2
+455,6,USA,USA,Graduate Student,Student,Female,2
+456,6,Canada,Other Americas,Graduate Student,Professional/Academic,Female,0
+457,6,Saudi Arabia,Middle East,Postdoctoral Researcher,Professional/Academic,Female,0
+458,6,USA,USA,Graduate Student,Student,Male,1
+459,6,USA,USA,Government Scientist,Student,Unknown,0
+460,6,USA,USA,Graduate Student,Student,Female,1
+461,6,USA,USA,Professor,Professional/Academic,Female,1
+462,6,USA,USA,Graduate Student,Student,Male,1
+463,6,USA,USA,Graduate Student,Student,Female,0
+464,6,USA,USA,Industry,Professional/Academic,Male,0
+465,6,USA,USA,Graduate Student,Student,Female,0
+466,6,USA,USA,Professor,Professional/Academic,Male,0
+467,6,USA,USA,Graduate Student,Student,Male,0
+468,6,United Kingdom,Europe,Graduate Student,Student,Male,0
+469,6,USA,USA,Postdoctoral Researcher,Professional/Academic,Male,0
+470,6,USA,USA,Graduate Student,Student,Female,0
+471,6,USA,USA,Professor,Professional/Academic,Female,0
+472,6,USA,USA,Undergraduate Student,Student,Female,0
+473,6,USA,USA,Government Scientist,Professional/Academic,Male,0
+474,6,USA,USA,Undergraduate Student,Student,Male,0
+475,6,USA,USA,Graduate Student,Student,Male,1
+476,6,USA,USA,Graduate Student,Student,Female,1
+477,6,USA,USA,Graduate Student,Student,Male,1
+478,6,USA,USA,Graduate Student,Student,Male,0
+479,6,USA,USA,Industry,Professional/Academic,Male,0
+480,6,USA,USA,Industry,Professional/Academic,Female,0
+481,6,USA,USA,Graduate Student,Student,Female,0
+482,6,USA,USA,Industry,Professional/Academic,Female,0
+483,6,Saudi Arabia,Middle East,Postdoctoral Researcher,Professional/Academic,Female,0
+484,6,Australia,Oceania,Graduate Student,Student,Female,0
+485,6,USA,USA,Industry,Student,Female,0
+486,6,USA,USA,Graduate Student,Student,Male,0
+487,6,USA,USA,Professor,Professional/Academic,Male,1
+488,6,USA,USA,Industry,Professional/Academic,Male,0
+489,6,USA,USA,Graduate Student,Student,Male,0
+490,6,Germany,Europe,Graduate Student,Student,Male,0
+491,6,USA,USA,Industry,Professional/Academic,Male,0
+492,6,USA,USA,Undergraduate Student,Complementary Registration - Student,Female,1
+493,6,Netherlands,Europe,Graduate Student,Student,Male,1
+494,6,USA,USA,Graduate Student,Student,Female,1
+495,6,Netherlands,Europe,Professor,Complimentary Registration,Female,0
+496,6,USA,USA,Professor,Complimentary Registration,Male,0
+497,6,USA,USA,Graduate Student,Student,Male,0
+498,6,USA,USA,Graduate Student,Student,Male,1
+499,6,Saudi Arabia,Middle East,Professor,Professional/Academic,Female,0
+500,6,USA,USA,Academia Scientist,Professional/Academic,Female,0
+501,6,USA,USA,Professor,Professional/Academic,Male,1
+502,6,Saudi Arabia,Middle East,Academia Scientist,Professional/Academic,Male,0
+503,6,USA,USA,Professor,Complimentary Registration,Female,1
+504,6,USA,USA,Graduate Student,Student,Female,0
+505,6,USA,USA,Graduate Student,Student,Female,0
+506,6,USA,USA,Graduate Student,Student,Female,1
+507,6,USA,USA,Undergraduate Student,Complementary Registration - Student,Male,0
+508,6,USA,USA,Graduate Student,Student,Male,0
+509,6,USA,USA,Graduate Student,Student,Male,0
+510,6,USA,USA,Professor,Professional/Academic,Male,0
+511,6,USA,USA,Graduate Student,Student,Male,1
+512,6,USA,USA,Graduate Student,Student,Male,0
+513,6,USA,USA,Professor,Professional/Academic,Male,1
+514,6,United Kingdom,Europe,Graduate Student,Student,Male,0
+515,6,USA,USA,Industry,Professional/Academic,Male,0
+516,6,USA,USA,Industry,Professional/Academic,Male,0
+517,6,USA,USA,Graduate Student,Student,Male,1
+518,6,USA,USA,Graduate Student,Student,Male,0
+519,6,USA,USA,Industry,Professional/Academic,Female,0
+520,6,USA,USA,Government Scientist,Professional/Academic,Male,0
+521,6,USA,USA,Graduate Student,Student,Female,0
+522,6,USA,USA,Graduate Student,Student,Male,0
+523,6,USA,USA,Industry,Professional/Academic,Female,0
+524,6,Canada,Other Americas,Industry,Professional/Academic,Male,0
+525,6,USA,USA,Professor,Professional/Academic,Male,1
+526,6,USA,USA,Graduate Student,Student,Male,0
+527,6,USA,USA,Professor,Professional/Academic,Male,1
+528,6,USA,USA,Professor,Professional/Academic,Male,0
+529,6,USA,USA,Graduate Student,Student,Male,0
+530,6,Saudi Arabia,Middle East,Professor,Professional/Academic,Male,0
+531,6,USA,USA,Industry,Professional/Academic,Male,0
+532,6,USA,USA,Academia Scientist,Student,Male,0
+533,6,USA,USA,Industry,Professional/Academic,Male,0
+534,6,Canada,Other Americas,Graduate Student,Student,Male,1
+535,6,USA,USA,Graduate Student,Student,Male,0
+536,6,USA,USA,Industry,Professional/Academic,Male,0
+537,6,Saudi Arabia,Middle East,Unknown/Other,Student,Male,0
+538,6,USA,USA,Graduate Student,Student,Female,0
+539,6,USA,USA,Graduate Student,Student,Male,1
+540,6,USA,USA,Professor,Professional/Academic,Female,3
+541,6,USA,USA,Graduate Student,Student,Male,2
+542,6,USA,USA,Unknown/Other,Student,Unknown,0
+543,6,USA,USA,Professor,Professional/Academic,Female,1
+544,6,USA,USA,Postdoctoral Researcher,Professional/Academic,Male,1
+545,6,China,Asia,Professor,Professional/Academic,Male,1
+546,6,USA,USA,Industry,Professional/Academic,Male,0
+547,6,USA,USA,Academia Scientist,Student,Male,0
+548,6,USA,USA,Professor,Professional/Academic,Male,1
+549,6,Israel,Middle East,Professor,Professional/Academic,Male,0
+550,6,USA,USA,Industry,Professional/Academic,Male,0
+551,6,USA,USA,Industry,Professional/Academic,Male,0
+552,6,USA,USA,Graduate Student,Student,Male,0
+553,6,USA,USA,Industry,Student,Female,0
+554,6,Italy,Europe,Graduate Student,Student,Female,0
+555,6,USA,USA,Graduate Student,Student,Male,0
+556,6,USA,USA,Graduate Student,Student,Female,0
+557,6,USA,USA,Graduate Student,Student,Unknown,0
+558,6,Switzerland,Europe,Industry,Student,Male,1
+559,6,USA,USA,Graduate Student,Student,Male,0
+560,6,USA,USA,Government Scientist,Professional/Academic,Male,0
+561,6,USA,USA,Graduate Student,Student,Male,0
+562,6,USA,USA,Graduate Student,Student,Male,0
+563,6,USA,USA,Graduate Student,Student,Female,1
+564,6,USA,USA,Graduate Student,Student,Male,0
+565,6,United Kingdom,Europe,Academia Scientist,Professional/Academic,Male,0
+566,6,USA,USA,Graduate Student,Student,Male,0
+567,6,Canada,Other Americas,Graduate Student,Student,Male,0
+568,6,USA,USA,Graduate Student,Student,Male,1
+569,6,Saudi Arabia,Middle East,Graduate Student,Student,Female,0
+570,6,USA,USA,Postdoctoral Researcher,Professional/Academic,Male,0
+571,6,USA,USA,Industry,Professional/Academic,Male,0
+572,6,USA,USA,Graduate Student,Student,Unknown,0
+573,6,USA,USA,Industry,Complimentary Registration,Male,0
+574,6,USA,USA,Undergraduate Student,Student,Male,1
+575,6,Germany,Europe,Postdoctoral Researcher,Student,Female,1
+576,6,USA,USA,Postdoctoral Researcher,Professional/Academic,Female,0
+577,6,India,Asia,Undergraduate Student,Student,Female,0
+578,6,USA,USA,Industry,Professional/Academic,Unknown,0
+579,6,Spain,Europe,Professor,Professional/Academic,Male,0
+580,6,Germany,Europe,Industry,Professional/Academic,Male,0
+581,6,Germany,Europe,Industry,Professional/Academic,Male,1
+582,6,USA,USA,Graduate Student,Student,Male,0
+583,6,Israel,Middle East,Graduate Student,Student,Unknown,1
+584,6,USA,USA,Government Scientist,Professional/Academic,Male,0
+585,6,USA,USA,Graduate Student,Student,Male,0
+586,6,USA,USA,Graduate Student,Student,Female,1
+587,6,USA,USA,Industry,Professional/Academic,Male,0
+588,6,USA,USA,Professor,Professional/Academic,Male,1
+589,6,USA,USA,Graduate Student,Student,Male,0
+590,6,USA,USA,Industry,Professional/Academic,Male,0
+591,6,USA,USA,Graduate Student,Student,Female,0
+592,6,USA,USA,Industry,Professional/Academic,Male,0
+593,6,Australia,Oceania,Graduate Student,Student,Male,0
+594,6,USA,USA,Academia Scientist,Professional/Academic,Male,1
+595,6,USA,USA,Industry,Professional/Academic,Female,0
+596,6,Israel,Middle East,Graduate Student,Student,Male,0
+597,6,USA,USA,Graduate Student,Student,Male,0
+598,6,USA,USA,Industry,Professional/Academic,Male,0
+599,6,USA,USA,Graduate Student,Student,Male,0
+600,6,Saudi Arabia,Middle East,Postdoctoral Researcher,Student,Male,0
+601,6,USA,USA,Professor,Professional/Academic,Male,0
+602,6,Singapore,Asia,Industry,Professional/Academic,Male,0
+603,6,Japan,Asia,Industry,Professional/Academic,Unknown,1
+604,6,USA,USA,Professor,Complimentary Registration,Male,0
+605,6,USA,USA,Industry,Professional/Academic,Male,0
+606,6,USA,USA,Industry,Professional/Academic,Female,0
+607,6,USA,USA,Graduate Student,Student,Male,0
+608,6,USA,USA,Graduate Student,Student,Male,0
+609,6,USA,USA,Government Scientist,Professional/Academic,Male,1
+610,6,USA,USA,Professor,Professional/Academic,Male,0
+611,6,USA,USA,Graduate Student,Student,Male,1
+612,6,USA,USA,Industry,Professional/Academic,Male,0
+613,6,USA,USA,Professor,Professional/Academic,Male,0
+614,6,USA,USA,Undergraduate Student,Student,Male,0
+615,6,USA,USA,Graduate Student,Student,Male,1
+616,6,USA,USA,Graduate Student,Student,Female,0
+617,6,USA,USA,Industry,Professional/Academic,Female,0
+618,6,USA,USA,Government Scientist,Professional/Academic,Male,0
+619,6,USA,USA,Government Scientist,Professional/Academic,Female,0
+620,6,USA,USA,Graduate Student,Student,Unknown,0
+621,6,Israel,Middle East,Postdoctoral Researcher,Professional/Academic,Male,1
+622,6,USA,USA,Graduate Student,Student,Female,0
+623,6,USA,USA,Professor,Professional/Academic,Male,1
+624,6,USA,USA,Graduate Student,Student,Male,0
+625,6,USA,USA,Graduate Student,Student,Male,2
+626,6,USA,USA,Graduate Student,Student,Female,1
+627,6,USA,USA,Industry,Professional/Academic,Male,0
+628,6,USA,USA,Graduate Student,Student,Female,1
+629,6,Singapore,Asia,Industry,Professional/Academic,Male,0
+630,6,USA,USA,Graduate Student,Student,Male,0
+631,6,USA,USA,Government Scientist,Professional/Academic,Male,0
+632,6,USA,USA,Industry,Professional/Academic,Male,0
+633,6,USA,USA,Unknown/Other,Complementary Registration - Student,Female,0
+634,6,USA,USA,Graduate Student,Student,Male,1
+635,6,USA,USA,Graduate Student,Student,Male,0
+636,6,Germany,Europe,Graduate Student,Student,Male,0
+637,6,USA,USA,Professor,Professional/Academic,Male,0
+638,6,USA,USA,Professor,Professional/Academic,Male,0
+639,6,USA,USA,Postdoctoral Researcher,Professional/Academic,Male,0
+640,6,Norway,Europe,Graduate Student,Student,Male,0
+641,6,Netherlands,Europe,Academia Scientist,Professional/Academic,Male,0
+642,6,Israel,Middle East,Postdoctoral Researcher,Student,Male,0
+643,6,USA,USA,Graduate Student,Student,Female,0
+644,6,USA,USA,Industry,Professional/Academic,Male,0
+645,6,USA,USA,Industry,Professional/Academic,Female,0
+646,6,USA,USA,Professor,Professional/Academic,Male,1
+647,6,USA,USA,Professor,Complimentary Registration,Male,1
+648,6,USA,USA,Government Scientist,Professional/Academic,Unknown,0
+649,6,USA,USA,Graduate Student,Student,Male,0
+650,6,USA,USA,Graduate Student,Student,Male,0
+651,6,USA,USA,Undergraduate Student,Complementary Registration - Student,Female,0
+652,6,Germany,Europe,Graduate Student,Student,Female,0
+653,6,USA,USA,Industry,Professional/Academic,Male,0
+654,6,USA,USA,Industry,Professional/Academic,Male,0
+655,6,USA,USA,Graduate Student,Student,Male,2
+656,6,USA,USA,Graduate Student,Student,Female,0
+657,6,Saudi Arabia,Middle East,Postdoctoral Researcher,Professional/Academic,Male,0
+658,6,Canada,Other Americas,Graduate Student,Student,Male,1
+659,6,USA,USA,Industry,Professional/Academic,Female,0
+660,6,Belgium,Europe,Academia Scientist,Professional/Academic,Male,0
+661,6,USA,USA,Government Scientist,Professional/Academic,Male,0
+662,6,USA,USA,Industry,Professional/Academic,Female,1
+663,6,USA,USA,Industry,Professional/Academic,Male,0
+664,6,USA,USA,Professor,Professional/Academic,Male,0
+665,6,USA,USA,Graduate Student,Student,Male,1
+666,6,USA,USA,Industry,Professional/Academic,Male,0
+667,6,Switzerland,Europe,Postdoctoral Researcher,Professional/Academic,Male,0
+668,6,USA,USA,Graduate Student,Student,Female,0
+669,6,Italy,Europe,Academia Scientist,Professional/Academic,Male,0
+670,6,USA,USA,Undergraduate Student,Student,Male,1
+671,6,Australia,Oceania,Academia Scientist,Student,Male,0
+672,6,USA,USA,Postdoctoral Researcher,Professional/Academic,Male,0
+673,6,USA,USA,Graduate Student,Student,Male,0
+674,6,Israel,Middle East,Unknown/Other,Student,Unknown,1
+675,6,USA,USA,Postdoctoral Researcher,Professional/Academic,Female,1
+676,6,USA,USA,Unknown/Other,Professional/Academic,Male,0
+677,6,USA,USA,Postdoctoral Researcher,Student,Male,0
+678,6,USA,USA,Graduate Student,Student,Female,0
+679,6,USA,USA,Graduate Student,Student,Male,0
+680,6,USA,USA,Postdoctoral Researcher,Professional/Academic,Male,0
+681,6,USA,USA,Graduate Student,Student,Male,2
+682,6,USA,USA,Postdoctoral Researcher,Student,Male,0
+683,6,USA,USA,Postdoctoral Researcher,Student,Male,1
+684,6,USA,USA,Graduate Student,Student,Male,1
+685,6,USA,USA,Professor,Professional/Academic,Male,0
+686,6,USA,USA,Undergraduate Student,Complementary Registration - Student,Female,0
+687,6,USA,USA,Professor,Professional/Academic,Male,0
+688,6,USA,USA,Industry,Professional/Academic,Male,0
+689,6,Canada,Other Americas,Graduate Student,Student,Female,0
+690,6,USA,USA,Graduate Student,Student,Female,0
+691,6,USA,USA,Industry,Professional/Academic,Male,0
+692,6,USA,USA,Professor,Professional/Academic,Male,2
+693,6,USA,USA,Industry,Professional/Academic,Male,0
+694,6,USA,USA,Professor,Professional/Academic,Male,1
+695,6,USA,USA,Industry,Complimentary Registration,Female,0
+696,6,USA,USA,Graduate Student,Student,Male,1
+697,6,Canada,Other Americas,Graduate Student,Student,Female,1
+698,6,USA,USA,Graduate Student,Student,Female,0
+699,6,USA,USA,Graduate Student,Student,Male,0
+700,6,USA,USA,Graduate Student,Student,Female,0
+701,6,USA,USA,Industry,Professional/Academic,Female,0
+702,6,USA,USA,Professor,Professional/Academic,Female,0
+703,6,USA,USA,Graduate Student,Student,Female,0
+704,6,USA,USA,Unknown/Other,Student,Female,1
+705,6,China,Asia,Academia Scientist,Student,Female,0
+706,6,USA,USA,Industry,Professional/Academic,Male,0
+707,6,USA,USA,Industry,Student,Male,0
+708,6,USA,USA,Academia Scientist,Student,Female,0
+709,6,United Kingdom,Europe,Academia Scientist,Professional/Academic,Female,1
+710,6,USA,USA,Graduate Student,Student,Male,1
+711,6,USA,USA,Industry,Professional/Academic,Male,0
+712,6,USA,USA,Graduate Student,Student,Male,0
+713,6,USA,USA,Graduate Student,Student,Male,0
+714,6,United Kingdom,Europe,Graduate Student,Student,Male,0
+715,6,Saudi Arabia,Middle East,Graduate Student,Student,Female,0
+716,6,USA,USA,Government Scientist,Professional/Academic,Male,0
+717,6,USA,USA,Professor,Professional/Academic,Male,0
+718,6,USA,USA,Industry,Professional/Academic,Female,0
+719,6,USA,USA,Graduate Student,Student,Female,0
+720,6,USA,USA,Graduate Student,Student,Female,0
+721,6,USA,USA,Graduate Student,Student,Male,0
+722,6,USA,USA,Industry,Professional/Academic,Male,0
+723,6,USA,USA,Graduate Student,Student,Male,0
+724,6,Canada,Other Americas,Graduate Student,Student,Female,1
+725,6,USA,USA,Postdoctoral Researcher,Student,Male,1
+726,6,USA,USA,Graduate Student,Student,Female,0
+727,6,USA,USA,Industry,Professional/Academic,Unknown,0
+728,6,USA,USA,Graduate Student,Student,Male,1
+729,6,USA,USA,Industry,Professional/Academic,Male,0
+730,6,USA,USA,Graduate Student,Student,Male,0
+731,6,USA,USA,Industry,Professional/Academic,Male,0
+732,6,USA,USA,Graduate Student,Student,Female,0
+733,6,USA,USA,Graduate Student,Student,Male,1
+734,6,USA,USA,Graduate Student,Student,Female,0
+735,6,Norway,Europe,Graduate Student,Student,Female,0
+736,6,USA,USA,Professor,Professional/Academic,Female,0
+737,6,USA,USA,Industry,Professional/Academic,Female,0
+738,6,USA,USA,Professor,Professional/Academic,Male,0
+739,5,USA,USA,Graduate Student,Student,Female,
+740,5,USA,USA,Professor,Non-Member,Male,
+741,5,USA,USA,Graduate Student,Student Non-Member,Male,
+742,5,Switzerland,Europe,Professor,Member,Male,
+743,5,USA,USA,Graduate Student,Student,Male,
+744,5,USA,USA,Graduate Student,Student Non-Member,Male,
+745,5,USA,USA,Graduate Student,Student Non-Member,Male,
+746,5,Saudi Arabia,Middle East,Postdoctoral Researcher,Student Non-Member,Male,
+747,5,USA,USA,Graduate Student,Student Non-Member,Female,
+748,5,Germany,Europe,Graduate Student,Student Non-Member,Male,
+749,5,USA,USA,Graduate Student,Student Non-Member,Female,
+750,5,Unknown,Unknown,Unknown/Other,Guest,Female,
+751,5,USA,USA,Industry,Complimentary Registration,Male,
+752,5,USA,USA,Industry,Non-Member,Unknown,
+753,5,USA,USA,Graduate Student,Student Non-Member,Male,
+754,5,USA,USA,Graduate Student,Student Non-Member,Female,
+755,5,USA,USA,Graduate Student,Student,Female,
+756,5,USA,USA,Graduate Student,Student Non-Member,Female,
+757,5,Canada,Other Americas,Graduate Student,Student Non-Member,Female,
+758,5,USA,USA,Industry,Non-Member,Male,
+759,5,USA,USA,Postdoctoral Researcher,Student Non-Member,Male,
+760,5,USA,USA,Professor,Non-Member,Male,
+761,5,USA,USA,Graduate Student,Student Non-Member,Female,
+762,5,Israel,Middle East,Professor,Non-Member,Male,
+763,5,Canada,Other Americas,Graduate Student,Student Non-Member,Male,
+764,5,USA,USA,Professor,Member,Female,
+765,5,USA,USA,Industry,Non-Member,Female,
+766,5,USA,USA,Professor,Non-Member,Male,
+767,5,USA,USA,Industry,Member,Male,
+768,5,USA,USA,Professor,Member,Male,
+769,5,USA,USA,Postdoctoral Researcher,Non-Member,Male,
+770,5,USA,USA,Undergraduate Student,Student Non-Member,Male,
+771,5,France,Europe,Academia Scientist,Non-Member,Male,
+772,5,USA,USA,Graduate Student,Student Non-Member,Male,
+773,5,USA,USA,Undergraduate Student,Student Non-Member,Male,
+774,5,Belgium,Europe,Graduate Student,Student Non-Member,Male,
+775,5,Saudi Arabia,Middle East,Postdoctoral Researcher,Non-Member,Female,
+776,5,USA,USA,Industry,Non-Member,Female,
+777,5,USA,USA,Industry,Member,Male,
+778,5,France,Europe,Industry,Non-Member,Female,
+779,5,USA,USA,Industry,Non-Member,Female,
+780,5,Japan,Asia,Industry,Member,Male,
+781,5,Russia,Europe,Academia Scientist,Non-Member,Male,
+782,5,USA,USA,Graduate Student,Student,Male,
+783,5,USA,USA,Industry,,Male,
+784,5,USA,USA,Professor,Member,Male,
+785,5,USA,USA,Unknown/Other,Guest,Male,
+786,5,USA,USA,Government Scientist,Member,Male,
+787,5,Canada,Other Americas,Industry,Non-Member,Male,
+788,5,USA,USA,Industry,Non-Member,Male,
+789,5,USA,USA,Graduate Student,Complementary Registration - Student,Male,
+790,5,USA,USA,Graduate Student,Student Non-Member,Male,
+791,5,Canada,Other Americas,Industry,Non-Member,Male,
+792,5,Canada,Other Americas,Industry,Non-Member,Male,
+793,5,Canada,Other Americas,Industry,Non-Member,Male,
+794,5,Italy,Europe,Industry,Non-Member,Female,
+795,5,USA,USA,Industry,Member,Male,
+796,5,USA,USA,Graduate Student,Student Non-Member,Male,
+797,5,Brazil,Other Americas,Professor,Non-Member,Male,
+798,5,Netherlands,Europe,Professor,Non-Member,Female,
+799,5,USA,USA,Graduate Student,Complementary Registration - Student,Female,
+800,5,USA,USA,Professor,Member,Male,
+801,5,USA,USA,Professor,Member,Female,
+802,5,USA,USA,Graduate Student,Non-Member,Male,
+803,5,USA,USA,Academia Scientist,Non-Member,Female,
+804,5,USA,USA,Industry,Complimentary Registration,Female,
+805,5,USA,USA,Industry,Complimentary Registration,Male,
+806,5,USA,USA,Industry,Non-Member,Male,
+807,5,USA,USA,Postdoctoral Researcher,Non-Member,Female,
+808,5,USA,USA,Academia Scientist,Student Non-Member,Male,
+809,5,South Korea,Asia,Professor,Non-Member,Male,
+810,5,USA,USA,Graduate Student,Student Non-Member,Male,
+811,5,South Korea,Asia,Industry,Non-Member,Male,
+812,5,Taiwan,Asia,Professor,Non-Member,Male,
+813,5,Israel,Middle East,Postdoctoral Researcher,Student Non-Member,Female,
+814,5,USA,USA,Government Scientist,Non-Member,Male,
+815,5,USA,USA,Graduate Student,Student Non-Member,Male,
+816,5,USA,USA,Graduate Student,Student Non-Member,Male,
+817,5,USA,USA,Graduate Student,Student Non-Member,Female,
+818,5,USA,USA,Graduate Student,Student Non-Member,Female,
+819,5,USA,USA,Postdoctoral Researcher,Non-Member,Male,
+820,5,Singapore,Asia,Graduate Student,Student Non-Member,Male,
+821,5,USA,USA,Undergraduate Student,Student Non-Member,Female,
+822,5,Singapore,Asia,Professor,Non-Member,Female,
+823,5,Saudi Arabia,Middle East,Academia Scientist,Non-Member,Male,
+824,5,USA,USA,Graduate Student,Complementary Registration - Student,Male,
+825,5,Unknown,Unknown,Unknown/Other,Guest,Female,
+826,5,Singapore,Asia,Professor,Member,Male,
+827,5,USA,USA,Graduate Student,Student Non-Member,Female,
+828,5,USA,USA,Graduate Student,Student Non-Member,Female,
+829,5,Canada,Other Americas,Industry,Non-Member,Male,
+830,5,USA,USA,Professor,Member,Male,
+831,5,USA,USA,Industry,Member,Male,
+832,5,USA,USA,Graduate Student,Student Non-Member,Male,
+833,5,USA,USA,Graduate Student,Student Non-Member,Female,
+834,5,USA,USA,Graduate Student,Student Non-Member,Female,
+835,5,USA,USA,Industry,Non-Member,Male,
+836,5,USA,USA,Graduate Student,Student,Female,
+837,5,USA,USA,Graduate Student,Non-Member,Male,
+838,5,Netherlands,Europe,Industry,Non-Member,Male,
+839,5,Canada,Other Americas,Industry,Non-Member,Female,
+840,5,USA,USA,Professor,Member,Male,
+841,5,Brazil,Other Americas,Professor,Non-Member,Female,
+842,5,USA,USA,Graduate Student,Student,Male,
+843,5,USA,USA,Graduate Student,Student Non-Member,Male,
+844,5,USA,USA,Graduate Student,Student Non-Member,Male,
+845,5,USA,USA,Academia Scientist,Non-Member,Female,
+846,5,Canada,Other Americas,Professor,Member,Male,
+847,5,Canada,Other Americas,Graduate Student,Student Non-Member,Female,
+848,5,USA,USA,Graduate Student,Student Non-Member,Male,
+849,5,USA,USA,Industry,Non-Member,Male,
+850,5,USA,USA,Undergraduate Student,Student Non-Member,Female,
+851,5,USA,USA,Graduate Student,Student Non-Member,Male,
+852,5,USA,USA,Graduate Student,Student,Male,
+853,5,USA,USA,Industry,Non-Member,Male,
+854,5,USA,USA,Industry,Member,Male,
+855,5,USA,USA,Graduate Student,Student,Male,
+856,5,USA,USA,Professor,Member,Male,
+857,5,USA,USA,Professor,Member,Female,
+858,5,USA,USA,Graduate Student,Student,Female,
+859,5,USA,USA,Industry,Non-Member,Female,
+860,5,USA,USA,Graduate Student,Student Non-Member,Male,
+861,5,USA,USA,Industry,Non-Member,Male,
+862,5,Netherlands,Europe,Graduate Student,Student Non-Member,Male,
+863,5,USA,USA,Industry,Non-Member,Female,
+864,5,USA,USA,Industry,Non-Member,Female,
+865,5,USA,USA,Industry,Non-Member,Male,
+866,5,USA,USA,Postdoctoral Researcher,Complimentary Registration,Male,
+867,5,USA,USA,Graduate Student,Student Non-Member,Male,
+868,5,Netherlands,Europe,Industry,Complimentary Registration,Female,
+869,5,USA,USA,Professor,Student Non-Member,Female,
+870,5,USA,USA,Graduate Student,Student Non-Member,Female,
+871,5,France,Europe,Postdoctoral Researcher,Member,Male,
+872,5,USA,USA,Academia Scientist,Member,Male,
+873,5,USA,USA,Graduate Student,Student,Female,
+874,5,USA,USA,Professor,Member,Female,
+875,5,USA,USA,Professor,Member,Male,
+876,5,USA,USA,Graduate Student,Student Non-Member,Male,
+877,5,USA,USA,Industry,Non-Member,Male,
+878,5,USA,USA,Undergraduate Student,Student Non-Member,Male,
+879,5,USA,USA,Postdoctoral Researcher,Student Non-Member,Male,
+880,5,USA,USA,Industry,Member,Female,
+881,5,United Kingdom,Europe,Academia Scientist,Non-Member,Female,
+882,5,Belgium,Europe,Academia Scientist,Non-Member,Male,
+883,5,USA,USA,Government Scientist,Complimentary Registration,Male,
+884,5,USA,USA,Professor,Member,Male,
+885,5,USA,USA,Professor,Member,Male,
+886,5,Israel,Middle East,Professor,Non-Member,Male,
+887,5,USA,USA,Industry,Non-Member,Female,
+888,5,USA,USA,Graduate Student,Student,Female,
+889,5,USA,USA,Industry,Member,Male,
+890,5,Italy,Europe,Postdoctoral Researcher,Non-Member,Male,
+891,5,USA,USA,Professor,Member,Male,
+892,5,USA,USA,Graduate Student,Student,Male,
+893,5,USA,USA,Professor,Member,Male,
+894,5,USA,USA,Postdoctoral Researcher,Student Non-Member,Male,
+895,5,USA,USA,Graduate Student,Student Non-Member,Male,
+896,5,Netherlands,Europe,Graduate Student,Student Non-Member,Female,
+897,5,USA,USA,Industry,Non-Member,Male,
+898,5,Israel,Middle East,Professor,Member,Male,
+899,5,Italy,Europe,Academia Scientist,Member,Female,
+900,5,USA,USA,Industry,Non-Member,Male,
+901,5,USA,USA,Industry,Non-Member,Female,
+902,5,USA,USA,Professor,Non-Member,Male,
+903,5,USA,USA,Industry,Non-Member,Male,
+904,5,USA,USA,Undergraduate Student,Student Non-Member,Male,
+905,5,USA,USA,Industry,Member,Male,
+906,5,USA,USA,Graduate Student,Student,Female,
+907,5,USA,USA,Industry,Non-Member,Male,
+908,5,Germany,Europe,Industry,Non-Member,Male,
+909,5,USA,USA,Government Scientist,Non-Member,Male,
+910,5,Singapore,Asia,Industry,Non-Member,Male,
+911,5,China,Asia,Professor,Non-Member,Male,
+912,5,China,Asia,Postdoctoral Researcher,Non-Member,Male,
+913,5,USA,USA,Industry,Non-Member,Female,
+914,5,USA,USA,Professor,Non-Member,Female,
+915,5,USA,USA,Industry,Non-Member,Male,
+916,5,USA,USA,Industry,Non-Member,Male,
+917,5,South Korea,Asia,Industry,Non-Member,Male,
+918,5,USA,USA,Undergraduate Student,Student Non-Member,Male,
+919,5,Japan,Asia,Industry,Non-Member,Male,
+920,5,South Korea,Asia,Industry,Non-Member,Male,
+921,5,USA,USA,Postdoctoral Researcher,Complimentary Registration,Male,
+922,5,Denmark,Europe,Industry,Non-Member,Female,
+923,5,Belgium,Europe,Postdoctoral Researcher,Non-Member,Male,
+924,5,USA,USA,Industry,Member,Male,
+925,5,USA,USA,Industry,Non-Member,Male,
+926,5,USA,USA,Graduate Student,Student Non-Member,Male,
+927,5,USA,USA,Graduate Student,Student Non-Member,Female,
+928,5,Canada,Other Americas,Graduate Student,Student Non-Member,Female,
+929,5,Unknown,Unknown,Professor,Guest,Female,
+930,5,USA,USA,Professor,Member,Male,
+931,5,Unknown,Unknown,Unknown/Other,Guest,Female,
+932,5,USA,USA,Government Scientist,Non-Member,Male,
+933,5,USA,USA,Professor,Non-Member,Female,
+934,5,USA,USA,Professor,Member,Male,
+935,5,Australia,Oceania,Academia Scientist,Non-Member,Female,
+936,5,Australia,Oceania,Professor,Non-Member,Male,
+937,5,USA,USA,Professor,Member,Male,
+938,5,USA,USA,Industry,Non-Member,Male,
+939,5,USA,USA,Professor,Member,Male,
+940,5,USA,USA,Professor,Non-Member,Male,
+941,5,USA,USA,Government Scientist,Non-Member,Male,
+942,5,USA,USA,Professor,Non-Member,Female,
+943,5,USA,USA,Industry,,Male,
+944,5,USA,USA,Government Scientist,Non-Member,Male,
+945,5,Canada,Other Americas,Industry,Non-Member,Male,
+946,5,USA,USA,Postdoctoral Researcher,Complimentary Registration,Male,
+947,5,Switzerland,Europe,Graduate Student,Complementary Registration - Student,Female,
+948,5,United Kingdom,Europe,Academia Scientist,Non-Member,Female,
+949,5,USA,USA,Professor,Member,Male,
+950,5,USA,USA,Graduate Student,Student,Male,
+951,5,USA,USA,Postdoctoral Researcher,Non-Member,Male,
+952,5,Canada,Other Americas,Graduate Student,Student Non-Member,Male,
+953,5,Japan,Asia,Industry,Non-Member,Male,
+954,5,USA,USA,Industry,Non-Member,Female,
+955,5,Norway,Europe,Graduate Student,Student Non-Member,Male,
+956,5,USA,USA,Graduate Student,Student Non-Member,Female,
+957,5,Italy,Europe,Academia Scientist,Non-Member,Male,
+958,5,USA,USA,Professor,Non-Member,Male,
+959,5,USA,USA,Graduate Student,Student,Male,
+960,5,USA,USA,Professor,Non-Member,Female,
+961,5,United Kingdom,Europe,Academia Scientist,Non-Member,Male,
+962,5,USA,USA,Professor,Member,Female,
+963,5,USA,USA,Professor,Non-Member,Male,
+964,5,USA,USA,Industry,Complimentary Registration,Male,
+965,5,USA,USA,Graduate Student,Student,Male,
+966,5,USA,USA,Industry,Member,Female,
+967,5,USA,USA,Industry,Complimentary Registration,Male,
+968,5,USA,USA,Government Scientist,Non-Member,Female,
+969,5,USA,USA,Graduate Student,Student Non-Member,Male,
+970,5,South Korea,Asia,Graduate Student,Student Non-Member,Male,
+971,5,Canada,Other Americas,Graduate Student,Student Non-Member,Female,
+972,5,Germany,Europe,Graduate Student,Student Non-Member,Female,
+973,5,USA,USA,Government Scientist,Student Non-Member,Male,
+974,5,Canada,Other Americas,Graduate Student,Student Non-Member,Male,
+975,5,USA,USA,Graduate Student,Student,Male,
+976,5,USA,USA,Industry,Non-Member,Male,
+977,5,USA,USA,Academia Scientist,Non-Member,Male,
+978,5,Japan,Asia,Industry,Non-Member,Male,
+979,5,Canada,Other Americas,Graduate Student,Student Non-Member,Female,
+980,5,USA,USA,Graduate Student,Student Non-Member,Male,
+981,5,USA,USA,Graduate Student,Student Non-Member,Male,
+982,5,USA,USA,Industry,Non-Member,Female,
+983,5,USA,USA,Graduate Student,Student Non-Member,Female,
+984,5,USA,USA,Graduate Student,Student Non-Member,Male,
+985,5,USA,USA,Professor,Non-Member,Male,
+986,5,USA,USA,Graduate Student,Student,Male,
+987,5,USA,USA,Professor,Non-Member,Male,
+988,5,South Korea,Asia,Industry,Non-Member,Unknown,
+989,5,USA,USA,Graduate Student,Student Non-Member,Female,
+990,5,USA,USA,Graduate Student,Student Non-Member,Male,
+991,5,USA,USA,Industry,Member,Male,
+992,5,USA,USA,Industry,Complimentary Registration,Male,
+993,5,USA,USA,Government Scientist,Non-Member,Female,
+994,5,Canada,Other Americas,Postdoctoral Researcher,Non-Member,Male,
+995,5,USA,USA,Industry,Member,Unknown,
+996,5,USA,USA,Professor,Founder,Male,
+997,5,USA,USA,Industry,Non-Member,Male,
+998,5,Germany,Europe,Industry,Non-Member,Male,
+999,5,Canada,Other Americas,Professor,Non-Member,Male,
+1000,5,USA,USA,Industry,Non-Member,Male,
+1001,5,USA,USA,Graduate Student,Student Non-Member,Male,
+1002,5,USA,USA,Professor,Member,Male,
+1003,5,USA,USA,Industry,Non-Member,Male,
+1004,5,USA,USA,Government Scientist,Non-Member,Male,
+1005,5,South Korea,Asia,Professor,Non-Member,Male,
+1006,5,USA,USA,Professor,Member,Male,
+1007,5,USA,USA,Graduate Student,Student Non-Member,Male,
+1008,5,Singapore,Asia,Graduate Student,Student Non-Member,Male,
+1009,5,Austria,Europe,Industry,Non-Member,Male,
+1010,5,USA,USA,Industry,Member,Female,
+1011,5,Canada,Other Americas,Graduate Student,Complementary Registration - Student,Female,
+1012,5,Canada,Other Americas,Graduate Student,Complementary Registration - Student,Male,
+1013,5,Canada,Other Americas,Professor,Complimentary Registration,Male,
+1014,5,USA,USA,Industry,Non-Member,Male,
+1015,5,USA,USA,Graduate Student,Student Non-Member,Male,
+1016,5,Taiwan,Asia,Industry,Non-Member,Female,
+1017,5,Taiwan,Asia,Academia Scientist,Guest,Male,
+1018,5,Canada,Other Americas,Professor,Non-Member,Male,
+1019,5,South Korea,Asia,Graduate Student,Student Non-Member,Male,
+1020,5,South Korea,Asia,Professor,Non-Member,Male,
+1021,5,USA,USA,Graduate Student,Student Non-Member,Male,
+1022,5,Saudi Arabia,Middle East,Professor,Member,Male,
+1023,5,USA,USA,Undergraduate Student,Student Non-Member,Male,
+1024,5,USA,USA,Graduate Student,Student,Female,
+1025,5,USA,USA,Postdoctoral Researcher,Student Non-Member,Male,
+1026,5,China,Asia,Professor,Non-Member,Male,
+1027,5,China,Asia,Professor,Non-Member,Male,
+1028,5,Singapore,Asia,Academia Scientist,Non-Member,Female,
+1029,5,USA,USA,Graduate Student,Complementary Registration - Student,Male,
+1030,5,USA,USA,Professor,Non-Member,Female,
+1031,5,USA,USA,Professor,Member,Male,
+1032,5,USA,USA,Professor,Member,Male,
+1033,5,USA,USA,Professor,Member,Female,
+1034,5,USA,USA,Graduate Student,Student Non-Member,Female,
+1035,5,USA,USA,Industry,Non-Member,Male,
+1036,5,USA,USA,Professor,Member,Female,
+1037,5,USA,USA,Professor,Member,Male,
+1038,5,USA,USA,Industry,Non-Member,Male,
+1039,5,USA,USA,Industry,Non-Member,Female,
+1040,5,USA,USA,Postdoctoral Researcher,Non-Member,Male,
+1041,5,China,Asia,Professor,Member,Male,
+1042,5,USA,USA,Industry,Non-Member,Male,
+1043,5,USA,USA,Industry,Non-Member,Male,
+1044,5,Australia,Oceania,Academia Scientist,Non-Member,Male,
+1045,5,China,Asia,Professor,Non-Member,Male,
+1046,5,USA,USA,Postdoctoral Researcher,Non-Member,Male,
+1047,5,USA,USA,Professor,Member,Male,
+1048,5,USA,USA,Industry,Non-Member,Male,
+1049,5,USA,USA,Professor,Member,Male,
+1050,5,Canada,Other Americas,Industry,Guest,Female,
+1051,5,Canada,Other Americas,Industry,Non-Member,Female,
+1052,5,USA,USA,Industry,Member,Male,
+1053,5,USA,USA,Graduate Student,Student Non-Member,Male,
+1054,5,USA,USA,Graduate Student,Student Non-Member,Male,
+1055,5,USA,USA,Graduate Student,Student Non-Member,Male,
+1056,5,Austria,Europe,Industry,Non-Member,Male,
+1057,5,USA,USA,Government Scientist,Non-Member,Male,
+1058,5,USA,USA,Postdoctoral Researcher,Student,Male,
+1059,5,Canada,Other Americas,Postdoctoral Researcher,Student,Female,
+1060,5,USA,USA,Professor,Member,Male,
+1061,5,USA,USA,Graduate Student,Complementary Registration - Student,Female,
+1062,5,USA,USA,Professor,Non-Member,Male,
+1063,5,Canada,Other Americas,Graduate Student,Student Non-Member,Female,
+1064,5,USA,USA,Professor,Non-Member,Male,
+1065,5,USA,USA,Industry,Non-Member,Male,
+1066,5,USA,USA,Graduate Student,Student Non-Member,Female,
+1067,5,Canada,Other Americas,Graduate Student,Student Non-Member,Female,
+1068,5,USA,USA,Professor,Member,Male,
+1069,5,South Africa,Africa,Professor,Member,Male,
+1070,5,USA,USA,Postdoctoral Researcher,Student Non-Member,Male,
+1071,5,USA,USA,Postdoctoral Researcher,Student Non-Member,Male,
+1072,5,Canada,Other Americas,Graduate Student,Student Non-Member,Male,
+1073,5,USA,USA,Professor,Non-Member,Male,
+1074,5,USA,USA,Graduate Student,Student Non-Member,Female,
+1075,5,Japan,Asia,Professor,Non-Member,Male,
+1076,5,USA,USA,Industry,Non-Member,Male,
+1077,5,United Kingdom,Europe,Professor,Non-Member,Male,
+1078,5,USA,USA,Postdoctoral Researcher,Student Non-Member,Male,
+1079,5,USA,USA,Professor,Complimentary Registration,Female,
+1080,5,USA,USA,Graduate Student,Student Non-Member,Female,
+1081,5,USA,USA,Professor,Member,Male,
+1082,5,USA,USA,Graduate Student,Student Non-Member,Female,
+1083,5,USA,USA,Professor,Member,Male,
+1084,5,USA,USA,Graduate Student,Student,Male,
+1085,5,USA,USA,Undergraduate Student,Student Non-Member,Female,
+1086,5,USA,USA,Industry,Non-Member,Female,
+1087,5,USA,USA,Industry,Complimentary Registration,Male,
+1088,5,USA,USA,Graduate Student,Student Non-Member,Female,
+1089,5,United Kingdom,Europe,Graduate Student,Student Non-Member,Female,
+1090,5,USA,USA,Government Scientist,Student Non-Member,Female,
+1091,5,USA,USA,Government Scientist,Member,Male,
+1092,5,USA,USA,Postdoctoral Researcher,Non-Member,Female,
+1093,5,USA,USA,Graduate Student,Student,Male,
+1094,5,Canada,Other Americas,Graduate Student,Student Non-Member,Male,
+1095,5,USA,USA,Graduate Student,Student,Male,
+1096,5,USA,USA,Graduate Student,Student Non-Member,Male,
+1097,5,USA,USA,Industry,Member,Male,
+1098,5,South Africa,Africa,Academia Scientist,Non-Member,Male,
+1099,5,USA,USA,Professor,Non-Member,Male,
+1100,5,USA,USA,Graduate Student,Student Non-Member,Male,
+1101,5,USA,USA,Industry,Non-Member,Female,
+1102,5,USA,USA,Industry,Complimentary Registration,Male,
+1103,5,USA,USA,Industry,Non-Member,Male,
+1104,5,USA,USA,Government Scientist,Non-Member,Male,
+1105,5,Unknown,Unknown,Graduate Student,Member,Female,
+1106,5,USA,USA,Graduate Student,Complementary Registration - Student,Female,
+1107,5,USA,USA,Professor,Non-Member,Male,
+1108,5,USA,USA,Industry,Non-Member,Male,
+1109,5,USA,USA,Industry,Member,Male,
+1110,5,USA,USA,Graduate Student,Student Non-Member,Female,
+1111,5,Singapore,Asia,Graduate Student,Student Non-Member,Male,
+1112,5,Singapore,Asia,Industry,Non-Member,Male,
+1113,5,Netherlands,Europe,Professor,Non-Member,Female,
+1114,5,USA,USA,Professor,Member,Male,
+1115,5,USA,USA,Graduate Student,Student Non-Member,Male,
+1116,5,USA,USA,Government Scientist,Non-Member,Male,
+1117,5,USA,USA,Professor,Non-Member,Male,
+1118,5,USA,USA,Industry,Non-Member,Male,
+1119,5,USA,USA,Professor,Student Non-Member,Female,
+1120,5,South Korea,Asia,Industry,Non-Member,Unknown,
+1121,5,Japan,Asia,Industry,Non-Member,Male,
+1122,5,Japan,Asia,Industry,Non-Member,Male,
+1123,5,Japan,Asia,Industry,Non-Member,Male,
+1124,5,USA,USA,Graduate Student,Student Non-Member,Male,
+1125,5,USA,USA,Graduate Student,Student Non-Member,Male,
+1126,5,USA,USA,Industry,Member,Male,
+1127,5,USA,USA,Graduate Student,Student Non-Member,Male,
+1128,5,USA,USA,Government Scientist,Member,Male,
+1129,5,Canada,Other Americas,Professor,Non-Member,Male,
+1130,5,USA,USA,Industry,Non-Member,Female,
+1131,5,USA,USA,Postdoctoral Researcher,Non-Member,Male,
+1132,5,USA,USA,Graduate Student,Student Non-Member,Male,
+1133,5,USA,USA,Professor,Member,Male,
+1134,5,USA,USA,Academia Scientist,Member,Male,
+1135,5,USA,USA,Industry,Non-Member,Male,
+1136,5,USA,USA,Professor,Member,Male,
+1137,5,USA,USA,Professor,Member,Male,
+1138,5,Germany,Europe,Industry,Non-Member,Male,
+1139,5,Germany,Europe,Industry,Non-Member,Male,
+1140,5,USA,USA,Industry,Non-Member,Male,
+1141,5,Saudi Arabia,Middle East,Graduate Student,Student Non-Member,Male,
+1142,5,USA,USA,Graduate Student,Student Non-Member,Male,
+1143,5,USA,USA,Professor,Member,Female,
+1144,5,USA,USA,Graduate Student,Student Non-Member,Male,
+1145,5,USA,USA,Postdoctoral Researcher,Member,Male,
+1146,5,USA,USA,Industry,Non-Member,Unknown,
+1147,5,USA,USA,Industry,Complimentary Registration,Male,
+1148,5,Canada,Other Americas,Professor,Non-Member,Male,
+1149,5,Israel,Middle East,Professor,Member,Male,
+1150,5,USA,USA,Graduate Student,Student Non-Member,Male,
+1151,5,USA,USA,Industry,Student,Female,
+1152,5,USA,USA,Graduate Student,Student Non-Member,Female,
+1153,5,USA,USA,Graduate Student,Student Non-Member,Male,
+1154,5,USA,USA,Industry,Member,Male,
+1155,5,USA,USA,Industry,Non-Member,Male,
+1156,5,USA,USA,Industry,Non-Member,Female,
+1157,5,USA,USA,Professor,Non-Member,Male,
+1158,5,United Kingdom,Europe,Academia Scientist,Non-Member,Male,
+1159,5,USA,USA,Professor,Member,Male,
+1160,5,USA,USA,Industry,Non-Member,Female,
+1161,5,USA,USA,Industry,Non-Member,Male,
+1162,5,USA,USA,Graduate Student,Student Non-Member,Male,
+1163,5,Canada,Other Americas,Professor,Non-Member,Male,
+1164,5,USA,USA,Government Scientist,Non-Member,Female,
+1165,5,USA,USA,Industry,Non-Member,Male,
+1166,5,USA,USA,Industry,Complimentary Registration,Male,
+1167,5,USA,USA,Industry,Non-Member,Male,
+1168,5,Norway,Europe,Industry,Non-Member,Male,
+1169,5,Germany,Europe,Postdoctoral Researcher,Student Non-Member,Female,
+1170,5,Spain,Europe,Professor,Non-Member,Male,
+1171,5,USA,USA,Professor,Non-Member,Male,
+1172,5,USA,USA,Graduate Student,Student Non-Member,Male,
+1173,5,USA,USA,Industry,Non-Member,Male,
+1174,5,USA,USA,Industry,Non-Member,Male,
+1175,5,USA,USA,Professor,Complimentary Registration,Female,
+1176,5,Australia,Oceania,Unknown/Other,Non-Member,Female,
+1177,5,USA,USA,Industry,Non-Member,Male,
+1178,5,USA,USA,Industry,Non-Member,Male,
+1179,5,USA,USA,Undergraduate Student,Student Non-Member,Female,
+1180,5,China,Asia,Unknown/Other,Non-Member,Male,
+1181,5,USA,USA,Graduate Student,Student Non-Member,Female,
+1182,5,USA,USA,Undergraduate Student,Student Non-Member,Male,
+1183,5,USA,USA,Postdoctoral Researcher,Student,Male,
+1184,5,USA,USA,Professor,Non-Member,Male,
+1185,5,USA,USA,Government Scientist,Non-Member,Male,
+1186,5,Brazil,Other Americas,Graduate Student,Student Non-Member,Female,
+1187,5,USA,USA,Industry,Non-Member,Male,
+1188,5,USA,USA,Professor,Member,Male,
+1189,5,USA,USA,Graduate Student,Student Non-Member,Male,
+1190,5,USA,USA,Professor,Member,Male,
+1191,5,USA,USA,Postdoctoral Researcher,Non-Member,Male,
+1192,5,USA,USA,Graduate Student,Student Non-Member,Male,
+1193,5,USA,USA,Graduate Student,Student Non-Member,Female,
+1194,5,USA,USA,Postdoctoral Researcher,Member,Female,
+1195,5,USA,USA,Industry,Non-Member,Female,
+1196,5,Israel,Middle East,Professor,Non-Member,Female,
+1197,5,USA,USA,Industry,Non-Member,Male,
+1198,5,USA,USA,Government Scientist,Non-Member,Female,
+1199,5,USA,USA,Postdoctoral Researcher,Student Non-Member,Male,
+1200,5,USA,USA,Graduate Student,Student Non-Member,Male,
+1201,5,USA,USA,Industry,Member,Male,
+1202,5,Canada,Other Americas,Graduate Student,Member,Male,
+1203,5,USA,USA,Industry,Complimentary Registration,Male,
+1204,5,Japan,Asia,Industry,Non-Member,Male,
+1205,5,USA,USA,Industry,Non-Member,Male,
+1206,5,China,Asia,Professor,Member,Male,
+1207,5,USA,USA,Professor,Member,Male,
+1208,5,Argentina,Other Americas,Industry,Non-Member,Female,
+1209,5,USA,USA,Government Scientist,Complimentary Registration,Male,
+1210,5,Canada,Other Americas,Professor,Non-Member,Female,
+1211,5,Israel,Middle East,Postdoctoral Researcher,Student Non-Member,Male,
+1212,5,USA,USA,Academia Scientist,Non-Member,Male,
+1213,5,United Arab Emirates,Middle East,Postdoctoral Researcher,Non-Member,Female,
+1214,5,USA,USA,Professor,Non-Member,Male,
+1215,5,USA,USA,Graduate Student,Student Non-Member,Male,
+1216,5,USA,USA,Industry,Complimentary Registration,Male,
+1217,5,USA,USA,Professor,Non-Member,Male,
+1218,5,USA,USA,Postdoctoral Researcher,Non-Member,Unknown,
+1219,5,USA,USA,Professor,Non-Member,Female,
+1220,5,USA,USA,Graduate Student,Student Non-Member,Female,
+1221,5,USA,USA,Industry,Member,Male,
+1222,5,USA,USA,Graduate Student,Student,Male,
+1223,5,Canada,Other Americas,Industry,Complimentary Registration,Male,
+1224,5,USA,USA,Graduate Student,Student Non-Member,Female,
+1225,5,Canada,Other Americas,Graduate Student,Student Non-Member,Male,
+1226,5,USA,USA,Government Scientist,Member,Male,
+1227,5,Israel,Middle East,Academia Scientist,Student Non-Member,Unknown,
+1228,5,Taiwan,Asia,Professor,Complimentary Registration,Male,
+1229,5,Belgium,Europe,Graduate Student,Student Non-Member,Female,
+1230,5,USA,USA,Professor,Member,Male,
+1231,5,USA,USA,Graduate Student,Student Non-Member,Male,
+1232,5,USA,USA,Professor,Member,Male,
+1233,5,Hungary,Europe,Industry,Non-Member,Male,
+1234,5,USA,USA,Undergraduate Student,Student Non-Member,Male,
+1235,5,USA,USA,Graduate Student,Student Non-Member,Female,
+1236,5,USA,USA,Postdoctoral Researcher,Non-Member,Male,
+1237,5,USA,USA,Government Scientist,Non-Member,Male,
+1238,5,USA,USA,Undergraduate Student,Student Non-Member,Male,
+1239,5,USA,USA,Industry,Non-Member,Female,
+1240,5,USA,USA,Graduate Student,Student Non-Member,Male,
+1241,5,USA,USA,Industry,Non-Member,Male,
+1242,5,USA,USA,Industry,Complimentary Registration,Male,
+1243,5,Singapore,Asia,Professor,Non-Member,Female,
+1244,5,Saudi Arabia,Middle East,Postdoctoral Researcher,Non-Member,Male,
+1245,5,Singapore,Asia,Academia Scientist,Non-Member,Female,
+1246,5,USA,USA,Professor,Member,Male,
+1247,5,China,Asia,Professor,Non-Member,Male,
+1248,5,USA,USA,Postdoctoral Researcher,Non-Member,Male,
+1249,5,USA,USA,Industry,Non-Member,Female,
+1250,5,USA,USA,Professor,Student,Male,
+1251,5,USA,USA,Graduate Student,Student,Male,
+1252,5,USA,USA,Graduate Student,Student Non-Member,Female,
+1253,5,USA,USA,Industry,Member,Male,
+1254,5,USA,USA,Professor,Complimentary Registration,Male,
+1255,5,Austria,Europe,Industry,Non-Member,Male,
+1256,5,USA,USA,Industry,Non-Member,Male,
+1257,5,USA,USA,Professor,Non-Member,Male,
+1258,5,USA,USA,Government Scientist,Non-Member,Male,
+1259,5,USA,USA,Industry,Complimentary Registration,Female,
+1260,5,Australia,Oceania,Academia Scientist,Non-Member,Male,
+1261,5,Canada,Other Americas,Graduate Student,Complementary Registration - Student,Male,
+1262,5,USA,USA,Graduate Student,Student Non-Member,Male,
+1263,5,USA,USA,Industry,Member,Unknown,
+1264,5,Canada,Other Americas,Graduate Student,Student Non-Member,Female,
+1265,5,USA,USA,Postdoctoral Researcher,Student Non-Member,Male,
+1266,5,USA,USA,Postdoctoral Researcher,Student Non-Member,Female,
+1267,5,USA,USA,Postdoctoral Researcher,Member,Male,
+1268,5,Russia,Europe,Academia Scientist,Non-Member,Male,
+1269,5,Canada,Other Americas,Graduate Student,Student Non-Member,Male,
+1270,5,USA,USA,Graduate Student,Student Non-Member,Female,
+1271,5,USA,USA,Graduate Student,Student Non-Member,Male,
+1272,5,USA,USA,Graduate Student,Student Non-Member,Male,
+1273,5,USA,USA,Government Scientist,Non-Member,Male,
+1274,5,USA,USA,Professor,Non-Member,Male,
+1275,5,USA,USA,Unknown/Other,Student,Unknown,
+1276,5,Unknown,Unknown,Unknown/Other,Guest,Female,
+1277,5,Canada,Other Americas,Graduate Student,Student Non-Member,Male,
+1278,5,USA,USA,Professor,Member,Male,
+1279,5,USA,USA,Graduate Student,Student Non-Member,Male,
+1280,5,USA,USA,Graduate Student,Student Non-Member,Male,
+1281,5,USA,USA,Graduate Student,Student Non-Member,Unknown,
+1282,5,Canada,Other Americas,Graduate Student,Student Non-Member,Female,
+1283,5,USA,USA,Graduate Student,Student Non-Member,Male,
+1284,5,USA,USA,Industry,Non-Member,Male,
+1285,5,Singapore,Asia,Professor,Non-Member,Male,
+1286,5,USA,USA,Graduate Student,Student Non-Member,Male,
+1287,5,China,Asia,Professor,Non-Member,Male,
+1288,5,USA,USA,Graduate Student,Student Non-Member,Female,
+1289,5,USA,USA,Postdoctoral Researcher,Non-Member,Male,
+1290,5,USA,USA,Industry,Non-Member,Male,
+1291,5,USA,USA,Professor,Complimentary Registration,Male,
+1292,4,Canada,Other Americas,Professor,Guest,Female,
+1293,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1294,4,USA,USA,Industry,Member,Male,
+1295,4,USA,USA,Professor,Non-Member,Male,
+1296,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1297,4,Switzerland,Europe,Professor,Complimentary Registration,Male,
+1298,4,USA,USA,Graduate Student,Student,Male,
+1299,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1300,4,Saudi Arabia,Middle East,Postdoctoral Researcher,Student Non-Member,Male,
+1301,4,Saudi Arabia,Middle East,Industry,Non-Member,Male,
+1302,4,USA,USA,Industry,Complimentary Registration,Male,
+1303,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1304,4,USA,USA,Postdoctoral Researcher,Student Non-Member,Male,
+1305,4,Israel,Middle East,Professor,Member,Male,
+1306,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1307,4,USA,USA,Professor,Member,Female,
+1308,4,Canada,Other Americas,Graduate Student,Student Non-Member,Male,
+1309,4,USA,USA,Industry,Non-Member,Female,
+1310,4,France,Europe,Professor,Non-Member,Female,
+1311,4,USA,USA,Postdoctoral Researcher,Non-Member,Male,
+1312,4,USA,USA,Industry,Founder,Male,
+1313,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1314,4,USA,USA,Professor,Member,Female,
+1315,4,USA,USA,Professor,Member,Male,
+1316,4,France,Europe,Academia Scientist,Complimentary Registration,Male,
+1317,4,USA,USA,Industry,Non-Member,Male,
+1318,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1319,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1320,4,USA,USA,Professor,Member,Male,
+1321,4,USA,USA,Industry,Non-Member,Female,
+1322,4,USA,USA,Postdoctoral Researcher,Student Non-Member,Male,
+1323,4,Israel,Middle East,Academia Scientist,Member,Male,
+1324,4,USA,USA,Industry,Member,Male,
+1325,4,USA,USA,Professor,Complimentary Registration,Male,
+1326,4,Unknown,Unknown,Unknown/Other,Guest,Female,
+1327,4,USA,USA,Government Scientist,Non-Member,Male,
+1328,4,USA,USA,Industry,Non-Member,Male,
+1329,4,USA,USA,Government Scientist,Member,Female,
+1330,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1331,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1332,4,Israel,Middle East,Graduate Student,Student Non-Member,Female,
+1333,4,Italy,Europe,Professor,Non-Member,Female,
+1334,4,Brazil,Other Americas,Professor,Complimentary Registration,Male,
+1335,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1336,4,USA,USA,Industry,Non-Member,Male,
+1337,4,USA,USA,Professor,Member,Male,
+1338,4,USA,USA,Postdoctoral Researcher,Non-Member,Male,
+1339,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1340,4,USA,USA,Professor,Non-Member,Male,
+1341,4,USA,USA,Professor,Member,Female,
+1342,4,USA,USA,Graduate Student,Student Non-Member,Female,
+1343,4,USA,USA,Industry,Member,Female,
+1344,4,USA,USA,Postdoctoral Researcher,Non-Member,Male,
+1345,4,USA,USA,Professor,Member,Male,
+1346,4,USA,USA,Academia Scientist,Student Non-Member,Male,
+1347,4,Taiwan,Asia,Professor,Non-Member,Male,
+1348,4,France,Europe,Industry,Non-Member,Male,
+1349,4,USA,USA,Industry,Complimentary Registration,Male,
+1350,4,USA,USA,Academia Scientist,Student,Female,
+1351,4,USA,USA,Professor,Member,Male,
+1352,4,Canada,Other Americas,Industry,Student Non-Member,Female,
+1353,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1354,4,USA,USA,Professor,Non-Member,Male,
+1355,4,USA,USA,Postdoctoral Researcher,Non-Member,Male,
+1356,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1357,4,USA,USA,Industry,Member,Male,
+1358,4,Saudi Arabia,Middle East,Academia Scientist,Non-Member,Male,
+1359,4,South Korea,Asia,Academia Scientist,Non-Member,Male,
+1360,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1361,4,USA,USA,Professor,Member,Male,
+1362,4,USA,USA,Graduate Student,Student,Male,
+1363,4,USA,USA,Industry,Member,Male,
+1364,4,USA,USA,Industry,Non-Member,Female,
+1365,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1366,4,USA,USA,Graduate Student,Student,Female,
+1367,4,Portugal,Europe,Professor,Non-Member,Male,
+1368,4,Turkey,Middle East,Professor,Complimentary Registration,Female,
+1369,4,USA,USA,Professor,Member,Male,
+1370,4,Brazil,Other Americas,Professor,Non-Member,Female,
+1371,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1372,4,Netherlands,Europe,Graduate Student,Student Non-Member,Male,
+1373,4,India,Asia,Professor,Member,Male,
+1374,4,Canada,Other Americas,Professor,Member,Male,
+1375,4,USA,USA,Industry,Non-Member,Male,
+1376,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1377,4,USA,USA,Graduate Student,Student,Male,
+1378,4,USA,USA,Industry,Member,Male,
+1379,4,USA,USA,Professor,Member,Male,
+1380,4,USA,USA,Industry,Complimentary Registration,Male,
+1381,4,USA,USA,Graduate Student,Student,Female,
+1382,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1383,4,USA,USA,Industry,Non-Member,Male,
+1384,4,USA,USA,Postdoctoral Researcher,Member,Male,
+1385,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1386,4,USA,USA,Unknown/Other,Complimentary Registration,Male,
+1387,4,USA,USA,Graduate Student,Student Non-Member,Female,
+1388,4,USA,USA,Unknown/Other,Complementary Registration - Student,Female,
+1389,4,USA,USA,Professor,Complimentary Registration,Female,
+1390,4,USA,USA,Graduate Student,Student Non-Member,Unknown,
+1391,4,United Kingdom,Europe,Professor,Complimentary Registration,Male,
+1392,4,USA,USA,Industry,Non-Member,Male,
+1393,4,USA,USA,Professor,Non-Member,Male,
+1394,4,USA,USA,Professor,Complimentary Registration,Male,
+1395,4,Czech Republic,Europe,Professor,Non-Member,Male,
+1396,4,USA,USA,Graduate Student,Student,Female,
+1397,4,USA,USA,Industry,Member,Male,
+1398,4,Czech Republic,Europe,Academia Scientist,Non-Member,Female,
+1399,4,Italy,Europe,Industry,Non-Member,Male,
+1400,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1401,4,USA,USA,Graduate Student,Student Non-Member,Female,
+1402,4,USA,USA,Professor,Member,Male,
+1403,4,USA,USA,Industry,Guest,Male,
+1404,4,Saudi Arabia,Middle East,Academia Scientist,Non-Member,Male,
+1405,4,Germany,Europe,Academia Scientist,Non-Member,Male,
+1406,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1407,4,Israel,Middle East,Professor,Member,Male,
+1408,4,Italy,Europe,Academia Scientist,Member,Female,
+1409,4,USA,USA,Industry,Non-Member,Male,
+1410,4,Germany,Europe,Professor,Non-Member,Male,
+1411,4,USA,USA,Graduate Student,Student Non-Member,Female,
+1412,4,USA,USA,Industry,Member,Male,
+1413,4,USA,USA,Professor,Non-Member,Female,
+1414,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1415,4,USA,USA,Professor,Member,Female,
+1416,4,South Korea,Asia,Industry,Non-Member,Male,
+1417,4,USA,USA,Graduate Student,Student Non-Member,Female,
+1418,4,South Korea,Asia,Industry,Non-Member,Male,
+1419,4,South Korea,Asia,Industry,Non-Member,Male,
+1420,4,USA,USA,Postdoctoral Researcher,Student Non-Member,Male,
+1421,4,USA,USA,Industry,Non-Member,Female,
+1422,4,United Kingdom,Europe,Industry,Member,Male,
+1423,4,USA,USA,Graduate Student,Student Non-Member,Female,
+1424,4,USA,USA,Industry,Non-Member,Male,
+1425,4,USA,USA,Industry,Non-Member,Male,
+1426,4,USA,USA,Graduate Student,Student Non-Member,Female,
+1427,4,USA,USA,Industry,Non-Member,Male,
+1428,4,Brazil,Other Americas,Professor,Complimentary Registration,Female,
+1429,4,USA,USA,Graduate Student,Complementary Registration - Student,Female,
+1430,4,USA,USA,Professor,Non-Member,Female,
+1431,4,USA,USA,Professor,Member,Male,
+1432,4,Unknown,Unknown,Unknown/Other,Guest,Female,
+1433,4,USA,USA,Government Scientist,Non-Member,Male,
+1434,4,USA,USA,Professor,Member,Female,
+1435,4,USA,USA,Professor,Member,Male,
+1436,4,Australia,Oceania,Academia Scientist,Non-Member,Male,
+1437,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1438,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1439,4,USA,USA,Professor,Member,Male,
+1440,4,Unknown,Unknown,Unknown/Other,Guest,Female,
+1441,4,USA,USA,Professor,Member,Male,
+1442,4,USA,USA,Professor,Non-Member,Male,
+1443,4,Australia,Oceania,Postdoctoral Researcher,Non-Member,Male,
+1444,4,USA,USA,Industry,,Male,
+1445,4,China,Asia,Professor,Member,Female,
+1446,4,USA,USA,Graduate Student,Student Non-Member,Female,
+1447,4,USA,USA,Professor,Member,Male,
+1448,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1449,4,USA,USA,Graduate Student,Student,Male,
+1450,4,USA,USA,Graduate Student,Student,Male,
+1451,4,Japan,Asia,Industry,Non-Member,Male,
+1452,4,USA,USA,Industry,Non-Member,Male,
+1453,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1454,4,Czech Republic,Europe,Academia Scientist,Non-Member,Male,
+1455,4,USA,USA,Industry,Non-Member,Male,
+1456,4,USA,USA,Graduate Student,Student Non-Member,Female,
+1457,4,Norway,Europe,Graduate Student,Student Non-Member,Male,
+1458,4,USA,USA,Graduate Student,Student Non-Member,Female,
+1459,4,USA,USA,Industry,Complimentary Registration,Male,
+1460,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1461,4,USA,USA,Industry,Member,Female,
+1462,4,South Korea,Asia,Unknown/Other,Student Non-Member,Unknown,
+1463,4,USA,USA,Postdoctoral Researcher,Non-Member,Female,
+1464,4,South Korea,Asia,Graduate Student,Student Non-Member,Male,
+1465,4,Canada,Other Americas,Graduate Student,Student Non-Member,Female,
+1466,4,USA,USA,Professor,Complimentary Registration,Male,
+1467,4,Israel,Middle East,Graduate Student,Student Non-Member,Male,
+1468,4,USA,USA,Industry,Member,Male,
+1469,4,Japan,Asia,Industry,Member,Male,
+1470,4,Canada,Other Americas,Graduate Student,Student Non-Member,Female,
+1471,4,USA,USA,Unknown/Other,Complimentary Registration,Female,
+1472,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1473,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1474,4,USA,USA,Graduate Student,Student Non-Member,Unknown,
+1475,4,USA,USA,Professor,Non-Member,Male,
+1476,4,South Korea,Asia,Unknown/Other,Student Non-Member,Male,
+1477,4,USA,USA,Graduate Student,Student,Male,
+1478,4,Saudi Arabia,Middle East,Postdoctoral Researcher,Non-Member,Female,
+1479,4,USA,USA,Professor,Member,Male,
+1480,4,USA,USA,Professor,Non-Member,Male,
+1481,4,USA,USA,Graduate Student,Student,Male,
+1482,4,Unknown,Unknown,Unknown/Other,Founder,Male,
+1483,4,USA,USA,Professor,Complimentary Registration,Male,
+1484,4,USA,USA,Industry,Non-Member,Male,
+1485,4,USA,USA,Professor,Non-Member,Female,
+1486,4,USA,USA,Industry,Member,Unknown,
+1487,4,USA,USA,Professor,Founder,Male,
+1488,4,Unknown,Unknown,Unknown/Other,Guest,Female,
+1489,4,USA,USA,Industry,Member,Male,
+1490,4,USA,USA,Industry,Non-Member,Male,
+1491,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1492,4,USA,USA,Professor,Member,Male,
+1493,4,USA,USA,Industry,Non-Member,Male,
+1494,4,USA,USA,Government Scientist,Non-Member,Male,
+1495,4,USA,USA,Industry,Member,Female,
+1496,4,USA,USA,Professor,Member,Male,
+1497,4,USA,USA,Unknown/Other,Student Non-Member,Female,
+1498,4,Saudi Arabia,Middle East,Professor,Non-Member,Male,
+1499,4,USA,USA,Industry,Non-Member,Female,
+1500,4,Canada,Other Americas,Graduate Student,Student Non-Member,Female,
+1501,4,Canada,Other Americas,Graduate Student,Student Non-Member,Male,
+1502,4,Canada,Other Americas,Professor,Member,Male,
+1503,4,South Korea,Asia,Graduate Student,Student Non-Member,Unknown,
+1504,4,USA,USA,Graduate Student,Student Non-Member,Female,
+1505,4,Canada,Other Americas,Professor,Non-Member,Male,
+1506,4,South Korea,Asia,Industry,Non-Member,Male,
+1507,4,Austria,Europe,Industry,Non-Member,Male,
+1508,4,South Korea,Asia,Professor,Non-Member,Male,
+1509,4,South Korea,Asia,Graduate Student,Student Non-Member,Unknown,
+1510,4,Unknown,Unknown,Industry,Guest,Female,
+1511,4,China,Asia,Professor,Member,Male,
+1512,4,USA,USA,Industry,Founder,Male,
+1513,4,USA,USA,Professor,Member,Female,
+1514,4,China,Asia,Professor,Non-Member,Male,
+1515,4,USA,USA,Industry,Complimentary Registration,Female,
+1516,4,USA,USA,Professor,Member,Male,
+1517,4,Singapore,Asia,Academia Scientist,Non-Member,Male,
+1518,4,USA,USA,Professor,Member,Male,
+1519,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1520,4,USA,USA,Professor,Member,Female,
+1521,4,USA,USA,Industry,Member,Female,
+1522,4,USA,USA,Professor,Member,Male,
+1523,4,USA,USA,Industry,Non-Member,Male,
+1524,4,USA,USA,Industry,Non-Member,Female,
+1525,4,China,Asia,Professor,Complimentary Registration,Male,
+1526,4,USA,USA,Industry,Member,Male,
+1527,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1528,4,China,Asia,Professor,Non-Member,Male,
+1529,4,USA,USA,Professor,Member,Male,
+1530,4,Switzerland,Europe,Graduate Student,Student Non-Member,Male,
+1531,4,USA,USA,Professor,Member,Male,
+1532,4,USA,USA,Industry,Non-Member,Male,
+1533,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1534,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1535,4,USA,USA,Government Scientist,Non-Member,Female,
+1536,4,Saudi Arabia,Middle East,Academia Scientist,Non-Member,Male,
+1537,4,USA,USA,Graduate Student,Student Non-Member,Female,
+1538,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1539,4,Canada,Other Americas,Graduate Student,Student Non-Member,Female,
+1540,4,USA,USA,Graduate Student,Student,Female,
+1541,4,USA,USA,Professor,Non-Member,Male,
+1542,4,USA,USA,Industry,Member,Male,
+1543,4,Australia,Oceania,Professor,Non-Member,Male,
+1544,4,USA,USA,Graduate Student,Student Non-Member,Female,
+1545,4,Japan,Asia,Professor,Non-Member,Male,
+1546,4,USA,USA,Industry,Non-Member,Male,
+1547,4,USA,USA,Professor,Member,Female,
+1548,4,USA,USA,Industry,Complimentary Registration,Male,
+1549,4,USA,USA,Professor,Member,Male,
+1550,4,USA,USA,Graduate Student,Student Non-Member,Female,
+1551,4,USA,USA,Industry,Non-Member,Male,
+1552,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1553,4,China,Asia,Professor,Non-Member,Male,
+1554,4,USA,USA,Industry,Member,Male,
+1555,4,USA,USA,Graduate Student,Student Non-Member,Female,
+1556,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1557,4,USA,USA,Government Scientist,Member,Male,
+1558,4,USA,USA,Postdoctoral Researcher,Guest,Male,
+1559,4,USA,USA,Graduate Student,Complementary Registration - Student,Male,
+1560,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1561,4,USA,USA,Graduate Student,Student Non-Member,Female,
+1562,4,USA,USA,Industry,Member,Male,
+1563,4,USA,USA,Graduate Student,Student,Male,
+1564,4,Canada,Other Americas,Industry,Non-Member,Male,
+1565,4,USA,USA,Professor,Complimentary Registration,Male,
+1566,4,USA,USA,Industry,Non-Member,Female,
+1567,4,USA,USA,Industry,Complimentary Registration,Male,
+1568,4,Unknown,Unknown,Academia Scientist,Student Non-Member,Female,
+1569,4,South Korea,Asia,Professor,Non-Member,Male,
+1570,4,USA,USA,Government Scientist,Non-Member,Male,
+1571,4,USA,USA,Professor,Non-Member,Male,
+1572,4,Unknown,Unknown,Academia Scientist,Non-Member,Female,
+1573,4,USA,USA,Industry,Member,Male,
+1574,4,USA,USA,Graduate Student,Student,Male,
+1575,4,USA,USA,Professor,Member,Male,
+1576,4,Saudi Arabia,Middle East,Professor,Member,Female,
+1577,4,USA,USA,Industry,Non-Member,Male,
+1578,4,USA,USA,Graduate Student,Student Non-Member,Female,
+1579,4,USA,USA,Industry,Non-Member,Male,
+1580,4,Saudi Arabia,Middle East,Academia Scientist,Non-Member,Male,
+1581,4,Japan,Asia,Industry,Non-Member,Male,
+1582,4,USA,USA,Academia Scientist,Non-Member,Male,
+1583,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1584,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1585,4,USA,USA,Industry,Non-Member,Male,
+1586,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1587,4,USA,USA,Graduate Student,Student,Male,
+1588,4,Saudi Arabia,Middle East,Professor,Non-Member,Male,
+1589,4,USA,USA,Professor,Member,Male,
+1590,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1591,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1592,4,USA,USA,Professor,Member,Male,
+1593,4,Saudi Arabia,Middle East,Professor,Complimentary Registration,Male,
+1594,4,USA,USA,Industry,Member,Male,
+1595,4,USA,USA,Graduate Student,Student,Female,
+1596,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1597,4,USA,USA,Academia Scientist,Complimentary Registration,Male,
+1598,4,USA,USA,Professor,Member,Female,
+1599,4,USA,USA,Postdoctoral Researcher,Non-Member,Male,
+1600,4,USA,USA,Graduate Student,Student Non-Member,Female,
+1601,4,Spain,Europe,Graduate Student,Student Non-Member,Female,
+1602,4,Canada,Other Americas,Professor,Non-Member,Male,
+1603,4,USA,USA,Professor,Non-Member,Male,
+1604,4,USA,USA,Industry,Non-Member,Male,
+1605,4,USA,USA,Professor,Non-Member,Male,
+1606,4,Italy,Europe,Graduate Student,Student Non-Member,Female,
+1607,4,USA,USA,Professor,Non-Member,Male,
+1608,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1609,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1610,4,USA,USA,Graduate Student,Student,Female,
+1611,4,USA,USA,Professor,Non-Member,Male,
+1612,4,USA,USA,Graduate Student,Student,Male,
+1613,4,Unknown,Unknown,Industry,Complimentary Registration,Male,
+1614,4,USA,USA,Graduate Student,Student,Female,
+1615,4,USA,USA,Government Scientist,Non-Member,Male,
+1616,4,USA,USA,Postdoctoral Researcher,Student,Male,
+1617,4,USA,USA,Industry,Member,Male,
+1618,4,Germany,Europe,Postdoctoral Researcher,Student Non-Member,Female,
+1619,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1620,4,USA,USA,Professor,Non-Member,Male,
+1621,4,USA,USA,Postdoctoral Researcher,Non-Member,Male,
+1622,4,USA,USA,Industry,Member,Female,
+1623,4,Spain,Europe,Professor,Non-Member,Male,
+1624,4,Netherlands,Europe,Professor,Non-Member,Female,
+1625,4,USA,USA,Industry,Non-Member,Male,
+1626,4,Unknown,Unknown,Industry,Guest,Female,
+1627,4,USA,USA,Government Scientist,Member,Male,
+1628,4,South Korea,Asia,Professor,Non-Member,Male,
+1629,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1630,4,USA,USA,Professor,Non-Member,Male,
+1631,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1632,4,USA,USA,Graduate Student,Student Non-Member,Female,
+1633,4,Unknown,Unknown,Professor,Non-Member,Male,
+1634,4,Saudi Arabia,Middle East,Graduate Student,Student Non-Member,Male,
+1635,4,Unknown,Unknown,Graduate Student,Guest,Female,
+1636,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1637,4,USA,USA,Graduate Student,Complimentary Registration,Female,
+1638,4,USA,USA,Professor,Complimentary Registration,Male,
+1639,4,USA,USA,Industry,Member,Male,
+1640,4,USA,USA,Professor,Member,Male,
+1641,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1642,4,USA,USA,Postdoctoral Researcher,Non-Member,Female,
+1643,4,USA,USA,Industry,Non-Member,Female,
+1644,4,USA,USA,Government Scientist,Non-Member,Male,
+1645,4,Netherlands,Europe,Professor,Non-Member,Male,
+1646,4,USA,USA,Industry,Member,Male,
+1647,4,USA,USA,Professor,Non-Member,Female,
+1648,4,USA,USA,Industry,Non-Member,Male,
+1649,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1650,4,USA,USA,Industry,Member,Male,
+1651,4,USA,USA,Academia Scientist,Member,Male,
+1652,4,USA,USA,Industry,Non-Member,Male,
+1653,4,Japan,Asia,Industry,Non-Member,Male,
+1654,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1655,4,USA,USA,Academia Scientist,Non-Member,Female,
+1656,4,USA,USA,Academia Scientist,Non-Member,Male,
+1657,4,USA,USA,Professor,Member,Female,
+1658,4,Unknown,Unknown,Industry,Guest,Male,
+1659,4,USA,USA,Graduate Student,Student Non-Member,Female,
+1660,4,USA,USA,Professor,Member,Male,
+1661,4,USA,USA,Graduate Student,Student,Male,
+1662,4,USA,USA,Industry,Non-Member,Male,
+1663,4,USA,USA,Graduate Student,Student Non-Member,Female,
+1664,4,USA,USA,Industry,Non-Member,Male,
+1665,4,USA,USA,Government Scientist,Member,Male,
+1666,4,USA,USA,Academia Scientist,Student Non-Member,Female,
+1667,4,Taiwan,Asia,Professor,Non-Member,Male,
+1668,4,USA,USA,Industry,Non-Member,Male,
+1669,4,USA,USA,Professor,Member,Male,
+1670,4,USA,USA,Professor,Non-Member,Male,
+1671,4,USA,USA,Undergraduate Student,Student Non-Member,Male,
+1672,4,USA,USA,Graduate Student,Student,Male,
+1673,4,Singapore,Asia,Academia Scientist,Non-Member,Male,
+1674,4,USA,USA,Graduate Student,Student,Male,
+1675,4,USA,USA,Industry,Non-Member,Unknown,
+1676,4,Singapore,Asia,Professor,Non-Member,Female,
+1677,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1678,4,Saudi Arabia,Middle East,Academia Scientist,Non-Member,Male,
+1679,4,Saudi Arabia,Middle East,Academia Scientist,Complimentary Registration,Female,
+1680,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1681,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1682,4,USA,USA,Industry,Non-Member,Male,
+1683,4,USA,USA,Professor,Non-Member,Female,
+1684,4,USA,USA,Professor,Student,Male,
+1685,4,USA,USA,Professor,Non-Member,Male,
+1686,4,USA,USA,Industry,Member,Male,
+1687,4,USA,USA,Industry,Non-Member,Male,
+1688,4,USA,USA,Professor,Member,Male,
+1689,4,USA,USA,Industry,,Male,
+1690,4,USA,USA,Industry,Non-Member,Female,
+1691,4,USA,USA,Industry,Complimentary Registration,Male,
+1692,4,USA,USA,Graduate Student,Student,Male,
+1693,4,Singapore,Asia,Academia Scientist,Student Non-Member,Unknown,
+1694,4,USA,USA,Graduate Student,Student Non-Member,Female,
+1695,4,USA,USA,Government Scientist,Non-Member,Male,
+1696,4,USA,USA,Industry,Non-Member,Male,
+1697,4,Japan,Asia,Industry,Non-Member,Male,
+1698,4,South Korea,Asia,Graduate Student,Student Non-Member,Male,
+1699,4,USA,USA,Postdoctoral Researcher,Non-Member,Male,
+1700,4,USA,USA,Graduate Student,Student Non-Member,Female,
+1701,4,Spain,Europe,Professor,Non-Member,Male,
+1702,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1703,4,USA,USA,Industry,Non-Member,Male,
+1704,4,USA,USA,Postdoctoral Researcher,Student Non-Member,Male,
+1705,4,China,Asia,Industry,Non-Member,Unknown,
+1706,4,USA,USA,Graduate Student,Student Non-Member,Male,
+1707,4,China,Asia,Industry,Non-Member,Unknown,
+1708,4,China,Asia,Unknown/Other,Student Non-Member,Unknown,
+1709,4,Singapore,Asia,Professor,Non-Member,Female,
+1710,4,Israel,Middle East,Graduate Student,Student Non-Member,Male,
+1711,4,China,Asia,Professor,Non-Member,Male,
+1712,4,USA,USA,Industry,Member,Male,
+1713,4,USA,USA,Postdoctoral Researcher,Student Non-Member,Male,
+1714,4,USA,USA,Graduate Student,Student Non-Member,Female,
+1715,4,USA,USA,Graduate Student,Complementary Registration - Student,Male,
+1716,4,USA,USA,Graduate Student,Student,Male,
+1717,4,China,Asia,Professor,Non-Member,Male,
+1718,4,USA,USA,Industry,Non-Member,Male,
+1719,4,USA,USA,Professor,Member,Male,
+1720,2,USA,USA,Industry,Non-Member,Male,
+1721,2,Saudi Arabia,Middle East,Graduate Student,Student Non-Member,Male,
+1722,2,USA,USA,Industry,Non-Member,Male,
+1723,2,USA,USA,Professor,Non-Member,Male,
+1724,2,USA,USA,Industry,Member,Unknown,
+1725,2,USA,USA,Government Scientist,Member,Male,
+1726,2,Saudi Arabia,Middle East,Industry,Student Non-Member,Male,
+1727,2,Belgium,Europe,Graduate Student,Student Non-Member,Male,
+1728,2,USA,USA,Industry,Member,Male,
+1729,2,USA,USA,Graduate Student,Student Non-Member,Male,
+1730,2,USA,USA,Professor,Non-Member,Female,
+1731,2,USA,USA,Professor,Member,Male,
+1732,2,South Korea,Asia,Professor,Non-Member,Male,
+1733,2,USA,USA,Industry,Founder,Male,
+1734,2,USA,USA,Professor,Non-Member,Male,
+1735,2,USA,USA,Professor,Board Member,Female,
+1736,2,Saudi Arabia,Middle East,Graduate Student,Student Non-Member,Female,
+1737,2,Israel,Middle East,Graduate Student,Student Non-Member,Female,
+1738,2,France,Europe,Professor,Non-Member,Male,
+1739,2,USA,USA,Industry,Non-Member,Male,
+1740,2,Israel,Middle East,Postdoctoral Researcher,Student Non-Member,Female,
+1741,2,USA,USA,Graduate Student,Student Non-Member,Male,
+1742,2,USA,USA,Industry,Complimentary Registration,Female,
+1743,2,USA,USA,Professor,Member,Male,
+1744,2,USA,USA,Graduate Student,Student Non-Member,Female,
+1745,2,USA,USA,Graduate Student,Complementary Registration - Student,Female,
+1746,2,Israel,Middle East,Academia Scientist,Non-Member,Male,
+1747,2,USA,USA,Industry,,Male,
+1748,2,Unknown,Unknown,Unknown/Other,Guest,Female,
+1749,2,USA,USA,Professor,Board Member,Male,
+1750,2,USA,USA,Government Scientist,Non-Member,Male,
+1751,2,USA,USA,Industry,Non-Member,Male,
+1752,2,USA,USA,Industry,Non-Member,Male,
+1753,2,USA,USA,Industry,Non-Member,Male,
+1754,2,Denmark,Europe,Postdoctoral Researcher,Non-Member,Female,
+1755,2,USA,USA,Government Scientist,Non-Member,Male,
+1756,2,Switzerland,Europe,Graduate Student,Student Non-Member,Female,
+1757,2,USA,USA,Industry,Complimentary Registration,Male,
+1758,2,USA,USA,Professor,Non-Member,Male,
+1759,2,USA,USA,Postdoctoral Researcher,Student Non-Member,Female,
+1760,2,USA,USA,Industry,Non-Member,Male,
+1761,2,USA,USA,Industry,Student,Female,
+1762,2,USA,USA,Professor,Board Member,Male,
+1763,2,USA,USA,Graduate Student,Student Non-Member,Female,
+1764,2,Canada,Other Americas,Industry,Non-Member,Male,
+1765,2,Unknown,Unknown,Government Scientist,Guest,Male,
+1766,2,Singapore,Asia,Graduate Student,Student Non-Member,Male,
+1767,2,USA,USA,Industry,Founder,Male,
+1768,2,USA,USA,Industry,Non-Member,Male,
+1769,2,Saudi Arabia,Middle East,Academia Scientist,Non-Member,Male,
+1770,2,USA,USA,Graduate Student,Student Non-Member,Female,
+1771,2,USA,USA,Graduate Student,Student Non-Member,Male,
+1772,2,USA,USA,Graduate Student,Student Non-Member,Female,
+1773,2,Singapore,Asia,Professor,Non-Member,Male,
+1774,2,USA,USA,Graduate Student,Student,Male,
+1775,2,USA,USA,Industry,Member,Male,
+1776,2,USA,USA,Industry,Non-Member,Male,
+1777,2,USA,USA,Postdoctoral Researcher,Complimentary Registration,Male,
+1778,2,Singapore,Asia,Graduate Student,Student Non-Member,Female,
+1779,2,China,Asia,Industry,Non-Member,Unknown,
+1780,2,USA,USA,Industry,Non-Member,Male,
+1781,2,USA,USA,Graduate Student,Student Non-Member,Male,
+1782,2,USA,USA,Graduate Student,Student Non-Member,Male,
+1783,2,USA,USA,Industry,Non-Member,Male,
+1784,2,USA,USA,Graduate Student,Student Non-Member,Female,
+1785,2,USA,USA,Industry,Student,Male,
+1786,2,USA,USA,Industry,Member,Male,
+1787,2,USA,USA,Professor,Member,Male,
+1788,2,USA,USA,Industry,Complimentary Registration,Male,
+1789,2,USA,USA,Graduate Student,Student,Female,
+1790,2,Italy,Europe,Professor,Non-Member,Male,
+1791,2,USA,USA,Graduate Student,Student,Male,
+1792,2,USA,USA,Graduate Student,Student,Female,
+1793,2,USA,USA,Industry,Member,Male,
+1794,2,USA,USA,Graduate Student,Student,Male,
+1795,2,Australia,Oceania,Professor,Non-Member,Male,
+1796,2,USA,USA,Graduate Student,Student Non-Member,Female,
+1797,2,USA,USA,Graduate Student,Student,Female,
+1798,2,USA,USA,Postdoctoral Researcher,Student Non-Member,Female,
+1799,2,USA,USA,Professor,Board Member,Female,
+1800,2,USA,USA,Graduate Student,Student,Male,
+1801,2,USA,USA,Postdoctoral Researcher,Student Non-Member,Male,
+1802,2,Canada,Other Americas,Professor,Non-Member,Male,
+1803,2,USA,USA,Graduate Student,Student Non-Member,Female,
+1804,2,USA,USA,Professor,Member,Male,
+1805,2,USA,USA,Professor,Member,Male,
+1806,2,USA,USA,Professor,Member,Male,
+1807,2,Israel,Middle East,Professor,Member,Male,
+1808,2,Czech Republic,Europe,Professor,Non-Member,Male,
+1809,2,USA,USA,Industry,Non-Member,Male,
+1810,2,USA,USA,Industry,Non-Member,Female,
+1811,2,USA,USA,Industry,Board Member,Male,
+1812,2,Italy,Europe,Industry,Non-Member,Male,
+1813,2,USA,USA,Professor,Non-Member,Male,
+1814,2,USA,USA,Graduate Student,Student Non-Member,Male,
+1815,2,USA,USA,Postdoctoral Researcher,Student Non-Member,Male,
+1816,2,USA,USA,Industry,Complimentary Registration,Male,
+1817,2,USA,USA,Industry,Non-Member,Unknown,
+1818,2,USA,USA,Industry,Member,Male,
+1819,2,USA,USA,Industry,Non-Member,Male,
+1820,2,USA,USA,Industry,Non-Member,Male,
+1821,2,USA,USA,Graduate Student,Complementary Registration - Student,Male,
+1822,2,USA,USA,Professor,Complimentary Registration,Male,
+1823,2,USA,USA,Professor,Member,Female,
+1824,2,USA,USA,Industry,Non-Member,Male,
+1825,2,USA,USA,Industry,Non-Member,Male,
+1826,2,China,Asia,Industry,Non-Member,Female,
+1827,2,USA,USA,Academia Scientist,Complementary Registration - Student,Male,
+1828,2,USA,USA,Professor,Non-Member,Female,
+1829,2,USA,USA,Industry,Non-Member,Male,
+1830,2,Denmark,Europe,Industry,Non-Member,Female,
+1831,2,Singapore,Asia,Unknown/Other,Non-Member,Female,
+1832,2,Japan,Asia,Industry,Non-Member,Male,
+1833,2,USA,USA,Industry,Non-Member,Male,
+1834,2,USA,USA,Industry,Member,Male,
+1835,2,USA,USA,Professor,Board Member,Male,
+1836,2,USA,USA,Professor,Member,Female,
+1837,2,USA,USA,Professor,Member,Male,
+1838,2,USA,USA,Professor,Complimentary Registration,Male,
+1839,2,USA,USA,Industry,Non-Member,Male,
+1840,2,South Korea,Asia,Academia Scientist,Non-Member,Male,
+1841,2,South Korea,Asia,Industry,Non-Member,Unknown,
+1842,2,USA,USA,Graduate Student,Student Non-Member,Male,
+1843,2,USA,USA,Industry,Non-Member,Female,
+1844,2,Canada,Other Americas,Industry,Student Non-Member,Male,
+1845,2,USA,USA,Professor,Board Member,Male,
+1846,2,USA,USA,Graduate Student,Student,Male,
+1847,2,Australia,Oceania,Graduate Student,Student Non-Member,Male,
+1848,2,USA,USA,Industry,Non-Member,Male,
+1849,2,USA,USA,Industry,Non-Member,Male,
+1850,2,USA,USA,Graduate Student,Student,Male,
+1851,2,USA,USA,Industry,Non-Member,Male,
+1852,2,Czech Republic,Europe,Academia Scientist,Non-Member,Male,
+1853,2,USA,USA,Industry,Non-Member,Unknown,
+1854,2,USA,USA,Graduate Student,Student Non-Member,Male,
+1855,2,South Korea,Asia,Industry,Complimentary Registration,Male,
+1856,2,USA,USA,Professor,Non-Member,Male,
+1857,2,South Korea,Asia,Graduate Student,Student Non-Member,Unknown,
+1858,2,USA,USA,Industry,Board Member,Male,
+1859,2,USA,USA,Industry,Non-Member,Female,
+1860,2,USA,USA,Graduate Student,Student Non-Member,Female,
+1861,2,USA,USA,Graduate Student,Student Non-Member,Male,
+1862,2,South Korea,Asia,Industry,Non-Member,Male,
+1863,2,USA,USA,Industry,Non-Member,Male,
+1864,2,USA,USA,Graduate Student,Complementary Registration - Student,Male,
+1865,2,Japan,Asia,Industry,Non-Member,Male,
+1866,2,USA,USA,Professor,Non-Member,Male,
+1867,2,USA,USA,Graduate Student,Student Non-Member,Male,
+1868,2,USA,USA,Industry,Non-Member,Male,
+1869,2,Israel,Middle East,Professor,Non-Member,Male,
+1870,2,USA,USA,Graduate Student,Student Non-Member,Female,
+1871,2,USA,USA,Professor,Member,Male,
+1872,2,South Korea,Asia,Graduate Student,Student Non-Member,Male,
+1873,2,South Korea,Asia,Unknown/Other,Non-Member,Unknown,
+1874,2,USA,USA,Professor,Non-Member,Male,
+1875,2,USA,USA,Graduate Student,Student Non-Member,Female,
+1876,2,USA,USA,Industry,Non-Member,Female,
+1877,2,USA,USA,Industry,Non-Member,Male,
+1878,2,USA,USA,Unknown/Other,Non-Member,Male,
+1879,2,France,Europe,Academia Scientist,Student Non-Member,Male,
+1880,2,USA,USA,Postdoctoral Researcher,Non-Member,Male,
+1881,2,South Korea,Asia,Industry,Non-Member,Male,
+1882,2,USA,USA,Industry,Member,Unknown,
+1883,2,USA,USA,Professor,Founder,Male,
+1884,2,USA,USA,Professor,Member,Male,
+1885,2,Japan,Asia,Industry,Non-Member,Male,
+1886,2,USA,USA,Postdoctoral Researcher,Non-Member,Male,
+1887,2,USA,USA,Graduate Student,Student Non-Member,Male,
+1888,2,USA,USA,Industry,Non-Member,Female,
+1889,2,United Kingdom,Europe,Professor,Non-Member,Male,
+1890,2,USA,USA,Industry,Non-Member,Male,
+1891,2,USA,USA,Industry,Non-Member,Female,
+1892,2,Canada,Other Americas,Professor,Non-Member,Male,
+1893,2,USA,USA,Industry,Non-Member,Male,
+1894,2,South Korea,Asia,Academia Scientist,Non-Member,Male,
+1895,2,USA,USA,Graduate Student,Student,Female,
+1896,2,South Korea,Asia,Academia Scientist,Non-Member,Male,
+1897,2,USA,USA,Graduate Student,Student Non-Member,Female,
+1898,2,China,Asia,Professor,Member,Male,
+1899,2,USA,USA,Graduate Student,Student Non-Member,Unknown,
+1900,2,USA,USA,Graduate Student,Student Non-Member,Male,
+1901,2,USA,USA,Government Scientist,Non-Member,Unknown,
+1902,2,China,Asia,Industry,Member,Unknown,
+1903,2,USA,USA,Professor,Member,Female,
+1904,2,USA,USA,Industry,Non-Member,Male,
+1905,2,USA,USA,Professor,Member,Male,
+1906,2,USA,USA,Professor,Board Member,Female,
+1907,2,USA,USA,Professor,Member,Male,
+1908,2,Saudi Arabia,Middle East,Academia Scientist,Non-Member,Male,
+1909,2,China,Asia,Academia Scientist,Non-Member,Male,
+1910,2,USA,USA,Government Scientist,Non-Member,Male,
+1911,2,Singapore,Asia,Graduate Student,Student Non-Member,Unknown,
+1912,2,USA,USA,Industry,Member,Male,
+1913,2,USA,USA,Graduate Student,Student Non-Member,Female,
+1914,2,USA,USA,Government Scientist,Board Member,Male,
+1915,2,China,Asia,Professor,Non-Member,Male,
+1916,2,China,Asia,Professor,Non-Member,Unknown,
+1917,2,USA,USA,Professor,Non-Member,Male,
+1918,2,United Kingdom,Europe,Professor,Non-Member,Male,
+1919,2,USA,USA,Graduate Student,Student Non-Member,Male,
+1920,2,Austria,Europe,Industry,Non-Member,Male,
+1921,2,USA,USA,Industry,Non-Member,Unknown,
+1922,2,USA,USA,Industry,Non-Member,Male,
+1923,2,USA,USA,Graduate Student,Student Non-Member,Female,
+1924,2,USA,USA,Graduate Student,Student Non-Member,Male,
+1925,2,USA,USA,Graduate Student,Student,Male,
+1926,2,United Kingdom,Europe,Academia Scientist,Complimentary Registration,Female,
+1927,2,USA,USA,Graduate Student,Student Non-Member,Male,
+1928,2,USA,USA,Industry,Non-Member,Male,
+1929,2,USA,USA,Professor,Member,Female,
+1930,2,USA,USA,Industry,Member,Male,
+1931,2,USA,USA,Professor,Board Member,Male,
+1932,2,USA,USA,Industry,Non-Member,Male,
+1933,2,USA,USA,Industry,Non-Member,Male,
+1934,2,USA,USA,Industry,Board Member,Male,
+1935,2,USA,USA,Industry,Non-Member,Male,
+1936,2,USA,USA,Graduate Student,Student,Male,
+1937,2,USA,USA,Graduate Student,Student Non-Member,Male,
+1938,2,Japan,Asia,Industry,Non-Member,Male,
+1939,2,USA,USA,Graduate Student,Student Non-Member,Female,
+1940,2,Canada,Other Americas,Industry,Non-Member,Male,
+1941,2,USA,USA,Graduate Student,Student Non-Member,Male,
+1942,2,USA,USA,Undergraduate Student,Student Non-Member,Female,
+1943,2,USA,USA,Professor,Member,Male,
+1944,2,South Korea,Asia,Professor,Non-Member,Male,
+1945,2,USA,USA,Government Scientist,Member,Male,
+1946,2,South Africa,Africa,Industry,Non-Member,Female,
+1947,2,Unknown,Unknown,Unknown/Other,Guest,Male,
+1948,2,USA,USA,Industry,Non-Member,Male,
+1949,2,USA,USA,Industry,Non-Member,Male,
+1950,2,Canada,Other Americas,Graduate Student,Student Non-Member,Female,
+1951,2,USA,USA,Professor,Founder,Male,
+1952,2,Saudi Arabia,Middle East,Professor,Member,Female,
+1953,2,Japan,Asia,Industry,Non-Member,Male,
+1954,2,Saudi Arabia,Middle East,Academia Scientist,Non-Member,Male,
+1955,2,USA,USA,Industry,Complimentary Registration,Male,
+1956,2,USA,USA,Academia Scientist,Non-Member,Female,
+1957,2,Switzerland,Europe,Professor,Non-Member,Male,
+1958,2,USA,USA,Industry,Non-Member,Male,
+1959,2,USA,USA,Unknown/Other,Guest,Female,
+1960,2,Unknown,Unknown,Unknown/Other,Non-Member,Female,
+1961,2,USA,USA,Professor,Founder,Male,
+1962,2,USA,USA,Graduate Student,Student Non-Member,Male,
+1963,2,USA,USA,Graduate Student,Complementary Registration - Student,Male,
+1964,2,Saudi Arabia,Middle East,Professor,Non-Member,Male,
+1965,2,USA,USA,Professor,Member,Male,
+1966,2,USA,USA,Academia Scientist,Non-Member,Male,
+1967,2,USA,USA,Industry,Member,Female,
+1968,2,USA,USA,Professor,Member,Male,
+1969,2,Australia,Oceania,Academia Scientist,Member,Male,
+1970,2,Saudi Arabia,Middle East,Postdoctoral Researcher,Non-Member,Female,
+1971,2,Saudi Arabia,Middle East,Professor,Board Member,Male,
+1972,2,USA,USA,Professor,Non-Member,Male,
+1973,2,USA,USA,Undergraduate Student,Student,Female,
+1974,2,USA,USA,Industry,Complimentary Registration,Male,
+1975,2,USA,USA,Industry,Non-Member,Male,
+1976,2,USA,USA,Graduate Student,Student Non-Member,Female,
+1977,2,USA,USA,Industry,Complimentary Registration,Male,
+1978,2,USA,USA,Professor,Non-Member,Male,
+1979,2,Israel,Middle East,Professor,Non-Member,Male,
+1980,2,USA,USA,Graduate Student,Student Non-Member,Male,
+1981,2,USA,USA,Graduate Student,Complementary Registration - Student,Female,
+1982,2,USA,USA,Graduate Student,Student Non-Member,Female,
+1983,2,USA,USA,Graduate Student,Student Non-Member,Female,
+1984,2,Canada,Other Americas,Graduate Student,Student Non-Member,Female,
+1985,2,USA,USA,Academia Scientist,Student Non-Member,Male,
+1986,2,USA,USA,Professor,Non-Member,Male,
+1987,2,USA,USA,Graduate Student,Student Non-Member,Male,
+1988,2,USA,USA,Graduate Student,Student,Male,
+1989,2,USA,USA,Graduate Student,Student Non-Member,Female,
+1990,2,USA,USA,Graduate Student,Student,Male,
+1991,2,USA,USA,Graduate Student,Student Non-Member,Male,
+1992,2,Italy,Europe,Professor,Non-Member,Male,
+1993,2,Spain,Europe,Professor,Non-Member,Male,
+1994,2,USA,USA,Graduate Student,Student Non-Member,Female,
+1995,2,USA,USA,Government Scientist,Non-Member,Male,
+1996,2,USA,USA,Industry,Complimentary Registration,Male,
+1997,2,USA,USA,Academia Scientist,Student Non-Member,Male,
+1998,2,USA,USA,Graduate Student,Complementary Registration - Student,Male,
+1999,2,USA,USA,Graduate Student,Student,Male,
+2000,2,USA,USA,Industry,Member,Male,
+2001,2,USA,USA,Industry,Non-Member,Male,
+2002,2,USA,USA,Government Scientist,Non-Member,Male,
+2003,2,USA,USA,Professor,Member,Male,
+2004,2,USA,USA,Graduate Student,Student Non-Member,Female,
+2005,2,South Korea,Asia,Unknown/Other,Student Non-Member,Unknown,
+2006,2,USA,USA,Graduate Student,Student,Male,
+2007,2,USA,USA,Industry,Complimentary Registration,Male,
+2008,2,Singapore,Asia,Academia Scientist,Member,Male,
+2009,2,China,Asia,Professor,Non-Member,Male,
+2010,2,Saudi Arabia,Middle East,Graduate Student,Student Non-Member,Male,
+2011,2,USA,USA,Industry,Non-Member,Male,
+2012,2,USA,USA,Professor,Member,Male,
+2013,2,Singapore,Asia,Unknown/Other,Student Non-Member,Male,
+2014,2,USA,USA,Professor,Non-Member,Male,
+2015,2,USA,USA,Graduate Student,Student,Female,
+2016,2,USA,USA,Professor,Non-Member,Male,
+2017,2,USA,USA,Graduate Student,Student Non-Member,Female,
+2018,2,Canada,Other Americas,Industry,Non-Member,Male,
+2019,2,USA,USA,Industry,Complimentary Registration,Male,
+2020,2,USA,USA,Government Scientist,Member,Male,
+2021,2,USA,USA,Professor,Non-Member,Male,
+2022,2,USA,USA,Graduate Student,Student Non-Member,Female,
+2023,2,USA,USA,Graduate Student,Student Non-Member,Male,
+2024,2,USA,USA,Industry,Member,Male,
+2025,2,USA,USA,Government Scientist,Non-Member,Male,
+2026,2,USA,USA,Professor,Non-Member,Male,
+2027,2,Saudi Arabia,Middle East,Graduate Student,Student Non-Member,Male,
+2028,2,USA,USA,Graduate Student,Student,Male,
+2029,2,USA,USA,Graduate Student,Student,Male,
+2030,2,China,Asia,Professor,Non-Member,Male,
+2031,2,Australia,Oceania,Academia Scientist,Non-Member,Male,
+2032,2,USA,USA,Industry,Complimentary Registration,Male,
+2033,2,China,Asia,Professor,Student Non-Member,Female,
+2034,2,USA,USA,Graduate Student,Complementary Registration - Student,Female,
+2035,2,Singapore,Asia,Professor,Non-Member,Female,
+2036,2,USA,USA,Government Scientist,Non-Member,Female,
+2037,2,Saudi Arabia,Middle East,Academia Scientist,Complimentary Registration,Female,
+2038,2,China,Asia,Industry,Non-Member,Unknown,
+2039,2,USA,USA,Industry,Non-Member,Male,
+2040,2,USA,USA,Industry,Non-Member,Male,
+2041,2,USA,USA,Professor,Student,Male,
+2042,2,USA,USA,Graduate Student,Student Non-Member,Male,
+2043,2,USA,USA,Industry,Member,Male,
+2044,2,USA,USA,Professor,Non-Member,Male,
+2045,2,USA,USA,Graduate Student,Student Non-Member,Female,
+2046,2,USA,USA,Graduate Student,Student Non-Member,Female,
+2047,2,Canada,Other Americas,Industry,Non-Member,Unknown,
+2048,2,South Korea,Asia,Graduate Student,Student Non-Member,Unknown,
+2049,2,USA,USA,Graduate Student,Student Non-Member,Male,
+2050,2,China,Asia,Industry,Non-Member,Male,
+2051,2,USA,USA,Graduate Student,Student Non-Member,Female,
+2052,2,USA,USA,Postdoctoral Researcher,Student Non-Member,Female,
+2053,2,Singapore,Asia,Unknown/Other,Non-Member,Unknown,
+2054,2,USA,USA,Industry,Non-Member,Male,
+2055,2,Singapore,Asia,Graduate Student,Student Non-Member,Female,
+2056,2,China,Asia,Industry,Complimentary Registration,Unknown,
+2057,2,USA,USA,Industry,Complimentary Registration,Male,
+2058,2,Saudi Arabia,Middle East,Academia Scientist,Non-Member,Male,
+2059,2,USA,USA,Graduate Student,Student,Male,
+2060,2,China,Asia,Unknown/Other,Non-Member,Unknown,
+2061,2,USA,USA,Industry,Non-Member,Unknown,
+2062,2,USA,USA,Industry,Non-Member,Male,
+2063,2,China,Asia,Unknown/Other,Student Non-Member,Male,
+2064,2,China,Asia,Industry,Non-Member,Unknown,
+2065,2,USA,USA,Graduate Student,Student Non-Member,Female,
+2066,2,Unknown,Unknown,Unknown/Other,Guest,Female,
+2067,2,USA,USA,Graduate Student,Student Non-Member,Male,
+2068,2,China,Asia,Professor,Non-Member,Male,
+2069,2,China,Asia,Industry,Complimentary Registration,Female,
+2070,2,China,Asia,Industry,Non-Member,Female,
+2071,2,USA,USA,Industry,Non-Member,Male,
+2072,2,USA,USA,Industry,Guest,Male,
+2073,2,USA,USA,Industry,Non-Member,Unknown,
+2074,2,USA,USA,Graduate Student,Student Non-Member,Female,
+2075,2,USA,USA,Graduate Student,Student Non-Member,Male,
+2076,2,China,Asia,Professor,Non-Member,Male,
+2077,2,USA,USA,Graduate Student,Student Non-Member,Female,
+2078,2,USA,USA,Graduate Student,Student Non-Member,Male,
+2079,2,USA,USA,Graduate Student,Student Non-Member,Male,
+2080,2,USA,USA,Industry,Non-Member,Female,
+2081,2,USA,USA,Professor,Member,Male,
+2082,1,Canada,Other Americas,Graduate Student,Student,Female,
+2083,1,Saudi Arabia,Middle East,Graduate Student,Student Non-Member,Female,
+2084,1,USA,USA,Industry,,Male,
+2085,1,USA,USA,Industry,Member,Unknown,
+2086,1,USA,USA,Industry,Non-Member,Male,
+2087,1,Japan,Asia,Professor,Non-Member,Male,
+2088,1,USA,USA,Graduate Student,Student Non-Member,Male,
+2089,1,USA,USA,Industry,Non-Member,Male,
+2090,1,Germany,Europe,Academia Scientist,Student Non-Member,Male,
+2091,1,Saudi Arabia,Middle East,Industry,Student,Male,
+2092,1,USA,USA,Industry,Non-Member,Male,
+2093,1,Brazil,Other Americas,Graduate Student,Student Non-Member,Male,
+2094,1,USA,USA,Graduate Student,Student Non-Member,Male,
+2095,1,United Arab Emirates,Middle East,Professor,Member,Male,
+2096,1,USA,USA,Postdoctoral Researcher,Student Non-Member,Male,
+2097,1,Israel,Middle East,Professor,Member,Male,
+2098,1,Spain,Europe,Graduate Student,Student,Female,
+2099,1,USA,USA,Professor,Non-Member,Female,
+2100,1,USA,USA,Graduate Student,Student Non-Member,Female,
+2101,1,USA,USA,Professor,Member,Male,
+2102,1,Unknown,Unknown,Industry,Complimentary Registration,Male,
+2103,1,Italy,Europe,Academia Scientist,Non-Member,Female,
+2104,1,USA,USA,Professor,Non-Member,Male,
+2105,1,USA,USA,Professor,Board Member,Female,
+2106,1,France,Europe,Professor,Non-Member,Male,
+2107,1,USA,USA,Industry,Non-Member,Female,
+2108,1,USA,USA,Undergraduate Student,Student Non-Member,Female,
+2109,1,USA,USA,Professor,Member,Male,
+2110,1,Saudi Arabia,Middle East,Academia Scientist,Non-Member,Male,
+2111,1,Tunisia,Africa,Industry,Student Non-Member,Male,
+2112,1,USA,USA,Graduate Student,Student,Male,
+2113,1,USA,USA,Graduate Student,Student Non-Member,Female,
+2114,1,USA,USA,Industry,Non-Member,Male,
+2115,1,Saudi Arabia,Middle East,Industry,Non-Member,Male,
+2116,1,USA,USA,Industry,"Silver Sponsor ($2,500 - $4,999)",Male,
+2117,1,USA,USA,Industry,Board Member,Male,
+2118,1,USA,USA,Industry,Non-Member,Male,
+2119,1,USA,USA,Professor,Board Member,Male,
+2120,1,Unknown,Unknown,Unknown/Other,Guest,Female,
+2121,1,USA,USA,Government Scientist,Non-Member,Male,
+2122,1,USA,USA,Industry,Complementary Registration - Student,Male,
+2123,1,USA,USA,Industry,Non-Member,Male,
+2124,1,USA,USA,Professor,Non-Member,Male,
+2125,1,Unknown,Unknown,Industry,Guest,Female,
+2126,1,USA,USA,Graduate Student,Student Non-Member,Male,
+2127,1,USA,USA,Professor,Non-Member,Male,
+2128,1,USA,USA,Graduate Student,Student Non-Member,Male,
+2129,1,USA,USA,Industry,Non-Member,Male,
+2130,1,Switzerland,Europe,Graduate Student,Student,Male,
+2131,1,USA,USA,Industry,Non-Member,Male,
+2132,1,USA,USA,Industry,Non-Member,Male,
+2133,1,USA,USA,Professor,Non-Member,Male,
+2134,1,USA,USA,Professor,Non-Member,Male,
+2135,1,USA,USA,Professor,Non-Member,Male,
+2136,1,USA,USA,Postdoctoral Researcher,Student Non-Member,Female,
+2137,1,USA,USA,Graduate Student,Student Non-Member,Male,
+2138,1,USA,USA,Industry,Non-Member,Male,
+2139,1,USA,USA,Industry,Student,Female,
+2140,1,USA,USA,Professor,Member,Male,
+2141,1,USA,USA,Graduate Student,Student Non-Member,Female,
+2142,1,USA,USA,Professor,Member,Male,
+2143,1,Canada,Other Americas,Postdoctoral Researcher,Student Non-Member,Unknown,
+2144,1,China,Asia,Industry,Non-Member,Unknown,
+2145,1,USA,USA,Professor,Member,Female,
+2146,1,Singapore,Asia,Professor,Non-Member,Female,
+2147,1,USA,USA,Industry,Non-Member,Male,
+2148,1,Saudi Arabia,Middle East,Industry,Non-Member,Male,
+2149,1,USA,USA,Graduate Student,Student Non-Member,Female,
+2150,1,USA,USA,Industry,Non-Member,Male,
+2151,1,South Korea,Asia,Graduate Student,Student Non-Member,Male,
+2152,1,Singapore,Asia,Professor,Non-Member,Male,
+2153,1,USA,USA,Industry,Non-Member,Male,
+2154,1,USA,USA,Industry,Student,Male,
+2155,1,Saudi Arabia,Middle East,Industry,Guest,Unknown,
+2156,1,Singapore,Asia,Professor,Member,Male,
+2157,1,USA,USA,Graduate Student,Student Non-Member,Female,
+2158,1,USA,USA,Industry,Student,Male,
+2159,1,USA,USA,Industry,"Gold Sponsor ($5,000 - $9,999)",Male,
+2160,1,USA,USA,Industry,Member,Male,
+2161,1,USA,USA,Professor,Member,Male,
+2162,1,Singapore,Asia,Graduate Student,Student,Unknown,
+2163,1,USA,USA,Graduate Student,Student Non-Member,Male,
+2164,1,China,Asia,Industry,Non-Member,Unknown,
+2165,1,USA,USA,Industry,Non-Member,Unknown,
+2166,1,Brazil,Other Americas,Unknown/Other,Student Non-Member,Male,
+2167,1,USA,USA,Postdoctoral Researcher,Student Non-Member,Male,
+2168,1,USA,USA,Industry,Student Non-Member,Male,
+2169,1,USA,USA,Professor,Non-Member,Male,
+2170,1,USA,USA,Industry,Non-Member,Male,
+2171,1,USA,USA,Graduate Student,Student Non-Member,Male,
+2172,1,USA,USA,Industry,Member,Male,
+2173,1,USA,USA,Graduate Student,Student Non-Member,Male,
+2174,1,USA,USA,Industry,Non-Member,Male,
+2175,1,USA,USA,Industry,Member,Male,
+2176,1,USA,USA,Industry,Member,Male,
+2177,1,USA,USA,Industry,Non-Member,Male,
+2178,1,USA,USA,Industry,Non-Member,Male,
+2179,1,USA,USA,Industry,Student,Female,
+2180,1,South Korea,Asia,Industry,Non-Member,Unknown,
+2181,1,USA,USA,Professor,Board Member,Female,
+2182,1,USA,USA,Postdoctoral Researcher,Student Non-Member,Male,
+2183,1,USA,USA,Industry,Student,Male,
+2184,1,USA,USA,Unknown/Other,Member,Male,
+2185,1,USA,USA,Postdoctoral Researcher,Student,Male,
+2186,1,Israel,Middle East,Graduate Student,Student Non-Member,Female,
+2187,1,USA,USA,Professor,Member,Male,
+2188,1,USA,USA,Industry,Non-Member,Female,
+2189,1,USA,USA,Professor,Member,Male,
+2190,1,Saudi Arabia,Middle East,Academia Scientist,Student Non-Member,Male,
+2191,1,USA,USA,Professor,Member,Male,
+2192,1,Germany,Europe,Industry,Non-Member,Male,
+2193,1,USA,USA,Industry,Student Non-Member,Female,
+2194,1,USA,USA,Industry,Board Member,Male,
+2195,1,Italy,Europe,Industry,Non-Member,Male,
+2196,1,Singapore,Asia,Graduate Student,Student,Female,
+2197,1,USA,USA,Graduate Student,Student Non-Member,Male,
+2198,1,USA,USA,Industry,Complimentary Registration,Male,
+2199,1,USA,USA,Industry,Non-Member,Unknown,
+2200,1,USA,USA,Professor,Complimentary Registration,Male,
+2201,1,USA,USA,Industry,Member,Unknown,
+2202,1,USA,USA,Industry,Non-Member,Unknown,
+2203,1,Canada,Other Americas,Professor,Non-Member,Male,
+2204,1,USA,USA,Industry,Non-Member,Male,
+2205,1,USA,USA,Industry,Member,Male,
+2206,1,USA,USA,Professor,Non-Member,Male,
+2207,1,USA,USA,Professor,Member,Male,
+2208,1,USA,USA,Industry,Non-Member,Male,
+2209,1,USA,USA,Industry,Non-Member,Male,
+2210,1,USA,USA,Industry,Non-Member,Male,
+2211,1,China,Asia,Industry,Non-Member,Female,
+2212,1,USA,USA,Government Scientist,Non-Member,Female,
+2213,1,USA,USA,Graduate Student,Student Non-Member,Male,
+2214,1,China,Asia,Professor,Non-Member,Male,
+2215,1,USA,USA,Professor,Non-Member,Male,
+2216,1,USA,USA,Professor,Non-Member,Female,
+2217,1,USA,USA,Professor,Non-Member,Female,
+2218,1,Australia,Oceania,Industry,Guest,Male,
+2219,1,Norway,Europe,Professor,Member,Female,
+2220,1,USA,USA,Graduate Student,Student Non-Member,Female,
+2221,1,USA,USA,Industry,"Silver Sponsor ($2,500 - $4,999)",Male,
+2222,1,USA,USA,Industry,Non-Member,Male,
+2223,1,USA,USA,Industry,Member,Female,
+2224,1,United Arab Emirates,Middle East,Professor,Non-Member,Male,
+2225,1,USA,USA,Industry,Complimentary Registration,Male,
+2226,1,USA,USA,Industry,Complimentary Registration,Male,
+2227,1,Germany,Europe,Academia Scientist,Student Non-Member,Male,
+2228,1,USA,USA,Graduate Student,Student Non-Member,Female,
+2229,1,USA,USA,Professor,Board Member,Male,
+2230,1,USA,USA,Professor,Non-Member,Male,
+2231,1,USA,USA,Professor,Non-Member,Female,
+2232,1,USA,USA,Government Scientist,Non-Member,Male,
+2233,1,USA,USA,Industry,Guest,Female,
+2234,1,Unknown,Unknown,Professor,Guest,Female,
+2235,1,USA,USA,Industry,Non-Member,Male,
+2236,1,USA,USA,Industry,Non-Member,Male,
+2237,1,USA,USA,Industry,"Exhibitor ($2,500)",Male,
+2238,1,USA,USA,Industry,Non-Member,Female,
+2239,1,Canada,Other Americas,Industry,Student Non-Member,Male,
+2240,1,USA,USA,Professor,Board Member,Male,
+2241,1,USA,USA,Graduate Student,Student Non-Member,Female,
+2242,1,USA,USA,Postdoctoral Researcher,Non-Member,Female,
+2243,1,USA,USA,Graduate Student,Student,Male,
+2244,1,Canada,Other Americas,Graduate Student,Student Non-Member,Male,
+2245,1,USA,USA,Graduate Student,Student,Male,
+2246,1,USA,USA,Graduate Student,Student,Female,
+2247,1,Saudi Arabia,Middle East,Graduate Student,Student Non-Member,Female,
+2248,1,USA,USA,Graduate Student,Student,Male,
+2249,1,USA,USA,Government Scientist,Non-Member,Male,
+2250,1,USA,USA,Graduate Student,Complementary Registration - Student,Female,
+2251,1,USA,USA,Graduate Student,Student Non-Member,Male,
+2252,1,Unknown,Unknown,Industry,Exhibitor Registrant,Female,
+2253,1,Singapore,Asia,Graduate Student,Student Non-Member,Male,
+2254,1,USA,USA,Industry,Member,Male,
+2255,1,USA,USA,Industry,Non-Member,Male,
+2256,1,Singapore,Asia,Graduate Student,Student Non-Member,Female,
+2257,1,USA,USA,Graduate Student,Student Non-Member,Male,
+2258,1,South Korea,Asia,Industry,Non-Member,Unknown,
+2259,1,USA,USA,Industry,Board Member,Male,
+2260,1,USA,USA,Graduate Student,Student Non-Member,Male,
+2261,1,USA,USA,Professor,Non-Member,Male,
+2262,1,Saudi Arabia,Middle East,Industry,Member,Male,
+2263,1,USA,USA,Industry,Member,Female,
+2264,1,USA,USA,Postdoctoral Researcher,Student Non-Member,Female,
+2265,1,USA,USA,Graduate Student,Student Non-Member,Female,
+2266,1,South Korea,Asia,Professor,Non-Member,Male,
+2267,1,USA,USA,Industry,Complimentary Registration,Male,
+2268,1,USA,USA,Graduate Student,Student Non-Member,Female,
+2269,1,USA,USA,Industry,Non-Member,Male,
+2270,1,USA,USA,Government Scientist,Non-Member,Male,
+2271,1,USA,USA,Graduate Student,Student,Female,
+2272,1,USA,USA,Professor,Member,Male,
+2273,1,USA,USA,Postdoctoral Researcher,Non-Member,Male,
+2274,1,South Korea,Asia,Industry,Non-Member,Unknown,
+2275,1,USA,USA,Graduate Student,Student Non-Member,Female,
+2276,1,USA,USA,Industry,Non-Member,Male,
+2277,1,South Korea,Asia,Industry,Guest,Unknown,
+2278,1,USA,USA,Industry,Member,Unknown,
+2279,1,USA,USA,Industry,Board Member,Male,
+2280,1,USA,USA,Industry,Non-Member,Male,
+2281,1,USA,USA,Industry,Non-Member,Female,
+2282,1,USA,USA,Professor,Founder,Male,
+2283,1,Unknown,Unknown,Unknown/Other,Guest,Unknown,
+2284,1,USA,USA,Industry,Member,Male,
+2285,1,USA,USA,Graduate Student,Student Non-Member,Female,
+2286,1,USA,USA,Industry,Non-Member,Male,
+2287,1,USA,USA,Professor,Member,Male,
+2288,1,USA,USA,Professor,Member,Male,
+2289,1,Canada,Other Americas,Graduate Student,Student Non-Member,Female,
+2290,1,USA,USA,Graduate Student,Student Non-Member,Female,
+2291,1,USA,USA,Graduate Student,Student Non-Member,Female,
+2292,1,USA,USA,Professor,Non-Member,Male,
+2293,1,USA,USA,Professor,Non-Member,Female,
+2294,1,Canada,Other Americas,Professor,Non-Member,Male,
+2295,1,USA,USA,Industry,Non-Member,Male,
+2296,1,USA,USA,Industry,Member,Male,
+2297,1,USA,USA,Undergraduate Student,Student Non-Member,Male,
+2298,1,South Korea,Asia,Unknown/Other,Non-Member,Male,
+2299,1,Unknown,Unknown,Graduate Student,Complementary Registration - Student,Male,
+2300,1,USA,USA,Postdoctoral Researcher,Non-Member,Male,
+2301,1,South Korea,Asia,Unknown/Other,Student Non-Member,Male,
+2302,1,USA,USA,Graduate Student,Student,Female,
+2303,1,South Korea,Asia,Graduate Student,Student Non-Member,Unknown,
+2304,1,USA,USA,Industry,Non-Member,Female,
+2305,1,USA,USA,Industry,Member,Male,
+2306,1,USA,USA,Graduate Student,Student Non-Member,Female,
+2307,1,Germany,Europe,Graduate Student,Student Non-Member,Male,
+2308,1,Unknown,Unknown,Graduate Student,Complimentary Registration,Female,
+2309,1,USA,USA,Professor,Member,Female,
+2310,1,USA,USA,Academia Scientist,Non-Member,Female,
+2311,1,USA,USA,Professor,Member,Male,
+2312,1,USA,USA,Industry,Member,Unknown,
+2313,1,USA,USA,Graduate Student,Student Non-Member,Male,
+2314,1,USA,USA,Professor,Board Member,Female,
+2315,1,Israel,Middle East,Professor,Non-Member,Male,
+2316,1,USA,USA,Professor,Member,Male,
+2317,1,Saudi Arabia,Middle East,Academia Scientist,Non-Member,Male,
+2318,1,USA,USA,Industry,Member,Male,
+2319,1,USA,USA,Graduate Student,Student Non-Member,Female,
+2320,1,USA,USA,Graduate Student,Student Non-Member,Male,
+2321,1,USA,USA,Industry,Member,Male,
+2322,1,USA,USA,Government Scientist,Member,Male,
+2323,1,China,Asia,Professor,Non-Member,Unknown,
+2324,1,Saudi Arabia,Middle East,Graduate Student,Student Non-Member,Female,
+2325,1,USA,USA,Professor,Non-Member,Male,
+2326,1,United Kingdom,Europe,Professor,Non-Member,Male,
+2327,1,Singapore,Asia,Academia Scientist,Non-Member,Male,
+2328,1,China,Asia,Unknown/Other,Student Non-Member,Unknown,
+2329,1,USA,USA,Industry,Non-Member,Female,
+2330,1,USA,USA,Professor,Member,Male,
+2331,1,Singapore,Asia,Graduate Student,Student,Unknown,
+2332,1,USA,USA,Postdoctoral Researcher,Non-Member,Male,
+2333,1,USA,USA,Graduate Student,Student Non-Member,Male,
+2334,1,USA,USA,Graduate Student,Student Non-Member,Female,
+2335,1,Canada,Other Americas,Graduate Student,Student Non-Member,Female,
+2336,1,USA,USA,Industry,Complimentary Registration,Male,
+2337,1,USA,USA,Graduate Student,Student Non-Member,Male,
+2338,1,USA,USA,Graduate Student,Student Non-Member,Female,
+2339,1,South Africa,Africa,Professor,Non-Member,Male,
+2340,1,USA,USA,Industry,Non-Member,Male,
+2341,1,USA,USA,Professor,Non-Member,Male,
+2342,1,USA,USA,Industry,Complimentary Registration,Unknown,
+2343,1,USA,USA,Professor,Complimentary Registration,Female,
+2344,1,USA,USA,Industry,"Silver Sponsor ($2,500 - $4,999)",Male,
+2345,1,USA,USA,Industry,Complimentary Registration,Male,
+2346,1,USA,USA,Professor,Board Member,Male,
+2347,1,USA,USA,Industry,Non-Member,Male,
+2348,1,USA,USA,Industry,"Bronze Sponsor ($1,000 - $2,499)",Male,
+2349,1,USA,USA,Professor,Non-Member,Male,
+2350,1,USA,USA,Government Scientist,Non-Member,Male,
+2351,1,USA,USA,Academia Scientist,Member,Female,
+2352,1,USA,USA,Professor,Non-Member,Male,
+2353,1,USA,USA,Industry,"Silver Sponsor ($2,500 - $4,999)",Male,
+2354,1,Italy,Europe,Professor,Non-Member,Male,
+2355,1,USA,USA,Industry,Non-Member,Male,
+2356,1,USA,USA,Industry,Member,Male,
+2357,1,USA,USA,Graduate Student,Student,Male,
+2358,1,USA,USA,Industry,"Bronze Sponsor ($1,000 - $2,499)",Male,
+2359,1,USA,USA,Industry,Non-Member,Male,
+2360,1,USA,USA,Industry,Member,Male,
+2361,1,Saudi Arabia,Middle East,Graduate Student,Student Non-Member,Male,
+2362,1,USA,USA,Industry,Non-Member,Male,
+2363,1,USA,USA,Industry,Board Member,Male,
+2364,1,USA,USA,Professor,Member,Female,
+2365,1,USA,USA,Industry,Non-Member,Female,
+2366,1,South Korea,Asia,Professor,Non-Member,Male,
+2367,1,USA,USA,Government Scientist,Member,Unknown,
+2368,1,USA,USA,Industry,Non-Member,Female,
+2369,1,USA,USA,Industry,Member,Male,
+2370,1,USA,USA,Graduate Student,Student Non-Member,Male,
+2371,1,USA,USA,Professor,Non-Member,Male,
+2372,1,USA,USA,Professor,Member,Male,
+2373,1,Saudi Arabia,Middle East,Professor,Member,Female,
+2374,1,USA,USA,Graduate Student,Student Non-Member,Female,
+2375,1,USA,USA,Professor,Non-Member,Female,
+2376,1,USA,USA,Industry,Non-Member,Female,
+2377,1,Germany,Europe,Industry,Non-Member,Male,
+2378,1,USA,USA,Industry,Non-Member,Female,
+2379,1,USA,USA,Graduate Student,Student Non-Member,Female,
+2380,1,Saudi Arabia,Middle East,Academia Scientist,Member,Male,
+2381,1,USA,USA,Industry,Complimentary Registration,Male,
+2382,1,USA,USA,Graduate Student,Student Non-Member,Male,
+2383,1,Switzerland,Europe,Professor,Member,Male,
+2384,1,South Korea,Asia,Academia Scientist,Student Non-Member,Unknown,
+2385,1,USA,USA,Professor,Member,Male,
+2386,1,USA,USA,Industry,Member,Female,
+2387,1,China,Asia,Industry,Non-Member,Unknown,
+2388,1,USA,USA,Postdoctoral Researcher,Member,Male,
+2389,1,USA,USA,Industry,Member,Unknown,
+2390,1,USA,USA,Professor,Member,Male,
+2391,1,USA,USA,Graduate Student,Student Non-Member,Male,
+2392,1,USA,USA,Industry,Non-Member,Male,
+2393,1,USA,USA,Government Scientist,Non-Member,Male,
+2394,1,USA,USA,Industry,Non-Member,Male,
+2395,1,USA,USA,Government Scientist,Member,Female,
+2396,1,USA,USA,Industry,Student Non-Member,Male,
+2397,1,USA,USA,Industry,"Silver Sponsor ($2,500 - $4,999)",Male,
+2398,1,Unknown,Unknown,Industry,Complimentary Registration,Male,
+2399,1,USA,USA,Graduate Student,Student Non-Member,Female,
+2400,1,USA,USA,Graduate Student,Student Non-Member,Female,
+2401,1,USA,USA,Industry,Complimentary Registration,Male,
+2402,1,USA,USA,Industry,Non-Member,Male,
+2403,1,USA,USA,Graduate Student,Student Non-Member,Female,
+2404,1,Israel,Middle East,Professor,Non-Member,Male,
+2405,1,USA,USA,Graduate Student,Student,Male,
+2406,1,USA,USA,Government Scientist,Non-Member,Female,
+2407,1,USA,USA,Industry,Non-Member,Male,
+2408,1,USA,USA,Graduate Student,Student Non-Member,Female,
+2409,1,USA,USA,Industry,Non-Member,Male,
+2410,1,USA,USA,Professor,Member,Female,
+2411,1,USA,USA,Graduate Student,Student Non-Member,Female,
+2412,1,USA,USA,Professor,Member,Male,
+2413,1,USA,USA,Professor,Non-Member,Male,
+2414,1,USA,USA,Graduate Student,Student,Male,
+2415,1,USA,USA,Graduate Student,Student Non-Member,Female,
+2416,1,USA,USA,Postdoctoral Researcher,Student,Male,
+2417,1,USA,USA,Professor,Non-Member,Male,
+2418,1,USA,USA,Industry,Non-Member,Male,
+2419,1,USA,USA,Industry,Member,Female,
+2420,1,USA,USA,Graduate Student,Student Non-Member,Male,
+2421,1,USA,USA,Graduate Student,Student,Male,
+2422,1,USA,USA,Graduate Student,Student Non-Member,Female,
+2423,1,Turkey,Middle East,Professor,Non-Member,Female,
+2424,1,Israel,Middle East,Industry,Non-Member,Male,
+2425,1,Saudi Arabia,Middle East,Graduate Student,Student Non-Member,Male,
+2426,1,USA,USA,Industry,Board Member,Male,
+2427,1,USA,USA,Graduate Student,Student,Female,
+2428,1,USA,USA,Industry,"Gold Sponsor ($5,000 - $9,999)",Male,
+2429,1,Germany,Europe,Industry,Non-Member,Male,
+2430,1,USA,USA,Graduate Student,Student,Male,
+2431,1,USA,USA,Graduate Student,Student Non-Member,Male,
+2432,1,USA,USA,Industry,Non-Member,Male,
+2433,1,USA,USA,Graduate Student,Student Non-Member,Male,
+2434,1,USA,USA,Postdoctoral Researcher,Non-Member,Female,
+2435,1,USA,USA,Graduate Student,Complementary Registration - Student,Male,
+2436,1,USA,USA,Industry,Non-Member,Unknown,
+2437,1,USA,USA,Industry,Non-Member,Unknown,
+2438,1,USA,USA,Government Scientist,Member,Male,
+2439,1,USA,USA,Graduate Student,Student Non-Member,Unknown,
+2440,1,USA,USA,Professor,Member,Male,
+2441,1,USA,USA,Graduate Student,Student Non-Member,Male,
+2442,1,USA,USA,Postdoctoral Researcher,Non-Member,Male,
+2443,1,USA,USA,Professor,Non-Member,Female,
+2444,1,South Korea,Asia,Graduate Student,Student Non-Member,Male,
+2445,1,USA,USA,Graduate Student,Student,Male,
+2446,1,USA,USA,Industry,"Exhibitor ($2,500)",Male,
+2447,1,USA,USA,Postdoctoral Researcher,Non-Member,Female,
+2448,1,USA,USA,Industry,Non-Member,Male,
+2449,1,Netherlands,Europe,Professor,Non-Member,Male,
+2450,1,USA,USA,Graduate Student,Student Non-Member,Male,
+2451,1,USA,USA,Industry,Non-Member,Male,
+2452,1,USA,USA,Government Scientist,Member,Male,
+2453,1,Germany,Europe,Graduate Student,Student Non-Member,Male,
+2454,1,USA,USA,Industry,Member,Male,
+2455,1,USA,USA,Graduate Student,Student,Male,
+2456,1,USA,USA,Graduate Student,Student Non-Member,Female,
+2457,1,USA,USA,Industry,Member,Male,
+2458,1,Saudi Arabia,Middle East,Industry,Student,Male,
+2459,1,Saudi Arabia,Middle East,Graduate Student,Student Non-Member,Male,
+2460,1,Israel,Middle East,Graduate Student,Student Non-Member,Male,
+2461,1,USA,USA,Industry,Non-Member,Male,
+2462,1,USA,USA,Postdoctoral Researcher,Student Non-Member,Male,
+2463,1,USA,USA,Graduate Student,Student Non-Member,Female,
+2464,1,USA,USA,Industry,Non-Member,Male,
+2465,1,USA,USA,Professor,Member,Female,
+2466,1,USA,USA,Professor,Non-Member,Male,
+2467,1,USA,USA,Industry,Complimentary Registration,Male,
+2468,1,USA,USA,Graduate Student,Student Non-Member,Male,
+2469,1,USA,USA,Professor,Non-Member,Male,
+2470,1,Japan,Asia,Professor,Non-Member,Male,
+2471,1,Italy,Europe,Graduate Student,Complementary Registration - Student,Male,
+2472,1,USA,USA,Unknown/Other,"Bronze Sponsor ($1,000 - $2,499)",Unknown,
+2473,1,USA,USA,Academia Scientist,Non-Member,Male,
+2474,1,USA,USA,Graduate Student,Student Non-Member,Male,
+2475,1,Netherlands,Europe,Industry,Non-Member,Male,
+2476,1,USA,USA,Government Scientist,Member,Male,
+2477,1,USA,USA,Professor,Non-Member,Male,
+2478,1,USA,USA,Graduate Student,Student Non-Member,Female,
+2479,1,USA,USA,Graduate Student,Student Non-Member,Male,
+2480,1,USA,USA,Industry,Member,Male,
+2481,1,USA,USA,Government Scientist,Non-Member,Male,
+2482,1,USA,USA,Professor,Non-Member,Male,
+2483,1,Saudi Arabia,Middle East,Graduate Student,Student Non-Member,Male,
+2484,1,USA,USA,Graduate Student,Student,Male,
+2485,1,USA,USA,Graduate Student,Student Non-Member,Female,
+2486,1,USA,USA,Graduate Student,Student,Male,
+2487,1,USA,USA,Industry,Non-Member,Unknown,
+2488,1,USA,USA,Graduate Student,Student,Female,
+2489,1,USA,USA,Graduate Student,Student Non-Member,Female,
+2490,1,USA,USA,Postdoctoral Researcher,Member,Male,
+2491,1,Saudi Arabia,Middle East,Academia Scientist,Non-Member,Unknown,
+2492,1,China,Asia,Professor,Non-Member,Male,
+2493,1,USA,USA,Graduate Student,Student Non-Member,Male,
+2494,1,Germany,Europe,Industry,Non-Member,Male,
+2495,1,China,Asia,Professor,Non-Member,Female,
+2496,1,USA,USA,Industry,Non-Member,Male,
+2497,1,USA,USA,Graduate Student,Student Non-Member,Male,
+2498,1,USA,USA,Professor,Student,Male,
+2499,1,USA,USA,Graduate Student,Student Non-Member,Male,
+2500,1,USA,USA,Industry,Member,Male,
+2501,1,USA,USA,Graduate Student,Student Non-Member,Male,
+2502,1,USA,USA,Professor,Complimentary Registration,Male,
+2503,1,USA,USA,Professor,Member,Male,
+2504,1,USA,USA,Industry,Member,Male,
+2505,1,USA,USA,Professor,Member,Male,
+2506,1,USA,USA,Government Scientist,Non-Member,Male,
+2507,1,Sweden,Europe,Graduate Student,Student Non-Member,Male,
+2508,1,South Korea,Asia,Graduate Student,Student Non-Member,Unknown,
+2509,1,Singapore,Asia,Unknown/Other,Non-Member,Male,
+2510,1,United Kingdom,Europe,Professor,Non-Member,Female,
+2511,1,USA,USA,Graduate Student,Student Non-Member,Female,
+2512,1,USA,USA,Graduate Student,Student Non-Member,Male,
+2513,1,USA,USA,Postdoctoral Researcher,Student Non-Member,Female,
+2514,1,USA,USA,Industry,Member,Male,
+2515,1,USA,USA,Graduate Student,Student Non-Member,Male,
+2516,1,Japan,Asia,Industry,Non-Member,Unknown,
+2517,1,USA,USA,Graduate Student,Student,Female,
+2518,1,USA,USA,Industry,Member,Male,
+2519,1,USA,USA,Graduate Student,Student Non-Member,Male,
+2520,1,USA,USA,Graduate Student,Student,Male,
+2521,1,USA,USA,Graduate Student,Student Non-Member,Female,
+2522,1,USA,USA,Graduate Student,Student Non-Member,Female,
+2523,1,USA,USA,Industry,Non-Member,Female,
+2524,1,Singapore,Asia,Academia Scientist,Student,Female,
+2525,1,South Korea,Asia,Graduate Student,Student Non-Member,Male,
+2526,1,USA,USA,Graduate Student,Student Non-Member,Female,
+2527,1,USA,USA,Academia Scientist,Member,Male,
+2528,1,USA,USA,Industry,Non-Member,Male,
+2529,1,China,Asia,Industry,Non-Member,Unknown,
+2530,1,USA,USA,Graduate Student,Student Non-Member,Female,
+2531,1,USA,USA,Graduate Student,Student Non-Member,Male,
+2532,1,USA,USA,Industry,Non-Member,Unknown,
+2533,1,Australia,Oceania,Graduate Student,Student Non-Member,Female,
+2534,1,USA,USA,Graduate Student,Student Non-Member,Female,
+2535,1,USA,USA,Graduate Student,Student Non-Member,Male,
+2536,1,USA,USA,Postdoctoral Researcher,Non-Member,Female,
+2537,1,USA,USA,Professor,Member,Male,
